@@ -1,3 +1,8 @@
+台湾相声,#genre#
+狗咬狗 赵少康VS曹兴诚 A,https://vkvd458.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704772988671&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.203&type=5&sig=qDfMD2UtXd0&ct=0&urls=185.226.53.203&clientType=14&appId=512000384397&zs=43&id=5882630048311
+狗咬狗 赵少康VS曹兴诚 B,https://vkvd139.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704772439675&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.141&type=4&sig=ADcDPdSwwfw&ct=14&urls=185.226.52.152&clientType=14&appId=512000384397&zs=43&id=5882654165559
+綠绿能你不能,https://vkvd46.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704775993259&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.136&type=4&sig=7L3m5Yy7oi0&ct=14&urls=45.136.20.161&clientType=14&appId=512000384397&zs=43&id=5882866960951
+
 央视,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -2212,6 +2217,163 @@ BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m
 🔥生命,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 
 科学,#genre#
+🔥美国之音中文Auto,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
+🔥美国之音中文1080p,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_1080.m3u8
+🔥美国之音中文720p,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
+🔥美国之音中文480p,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0480.m3u8
+🔥美国之音中文360p,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0360.m3u8
+🔥美国之音中文240p,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0240.m3u8
+🔥美国之音中文广播,https://voa-ingest.akamaized.net/hls/live/2035206/151_124L/playlist.m3u8
+🔥澳门Macau,http://61.244.22.4/ch3/ch3.live/index.m3u8
+🔥澳门Macau,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+🔥澳门卫视,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+🔥澳门卫视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+🔥澳视葡文,http://61.244.22.4/ch2/ch2.live/index.m3u8
+🔥澳视葡文,http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
+🔥澳视葡文,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+🔥澳视卫视,https://live3.tdm.com.mo/live/rch1.live/playlist.m3u8
+🔥澳视葡文,https://live4.tdm.com.mo/ch2/ch2.live/playlist.m3u8
+🔥澳视澳门,https://live4.tdm.com.mo/ch3/ch3.live/playlist.m3u8
+🔥澳视体育,https://live4.tdm.com.mo/ch4/sport_ch4.live/playlist.m3u8
+🔥澳视资讯,https://live4.tdm.com.mo/ch5/info_ch5.live/playlist.m3u8
+🔥澳视综艺,https://live4.tdm.com.mo/ch6/hd_ch6.live/playlist.m3u8
+🔥澳门FM100.7,https://live3.tdm.com.mo/live/rch2.live/playlist.m3u8
+🔥澳门FM98,https://live3.tdm.com.mo/live/rch1.live/playlist.m3u8
+🔥FashionTV(SK),http://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
+🔥法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+🔥香港电台1,https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/master.m3u8
+🔥香港电台2,https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/master.m3u8
+🔥香港电台3,https://rthkradio3-live.akamaized.net/hls/live/2040079/radio3/master.m3u8
+🔥香港电台4,https://rthkradio4-live.akamaized.net/hls/live/2040080/radio4/master.m3u8
+🔥香港电台5,https://rthkradio5-live.akamaized.net/hls/live/2040081/radio5/master.m3u8
+🔥香港电台6,https://rthkradiocmgrgb-live.akamaized.net/hls/live/2046112/radiocmgrgb/master.m3u8
+🔥香港电台7,https://rthkradiocnrhk-live.akamaized.net/hls/live/2046111/radiocnrhk/master.m3u8
+🔥香港电台8,https://rthkradiopth-live.akamaized.net/hls/live/2040082/radiopth/master.m3u8
+🔥香港回歸慶典1(HongKongHandoverCeremony1),http://app4.rthk.hk/podcast/media/rthkmemory/c_v20.mp4
+🔥獅子山下:四輪至八輪,http://app4.rthk.hk/podcast/media/rthkmemory/f_v02.mp4
+🔥獅子山下:馬路尋寶,http://app4.rthk.hk/podcast/media/rthkmemory/f_v03.mp4
+🔥獅子山下:野孩子,http://app4.rthk.hk/podcast/media/rthkmemory/i_v01.mp4
+🔥獅子山下:老犂,http://app4.rthk.hk/podcast/media/rthkmemory/f_v04.mp4
+🔥獅子山下:回巢、父親的西裝（1974年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v22.mp4
+🔥獅子山下:他的下半生、幫幫忙（1976、1977年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v23.mp4
+🔥獅子山下:麻雀仔、捐血的故事（1978年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v24.mp4
+🔥獅子山下:橋（1979至80年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v25.mp4
+🔥獅子山下:我的教練（1984年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v26.mp4
+🔥獅子山下:父親、東家唔打（1985年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v27.mp4
+🔥獅子山下:老大哥（1987年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v28.mp4
+🔥獅子山下:歸去來兮（1992年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v29.mp4
+🔥獅子山下:再進沈園（1994年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v30.mp4
+🔥獅子山下:獅子頭、水中的故鄉（2006年）,http://app4.rthk.hk/podcast/media/rthkmemory/f_v31.mp4
+🔥法門:收回成命1,http://app4.rthk.hk/podcast/media/rthkmemory/h_v36.mp4
+🔥法門:真相2,http://app4.rthk.hk/podcast/media/rthkmemory/h_v37.mp4
+🔥法門:夢醒時3,http://app4.rthk.hk/podcast/media/rthkmemory/h_v38.mp4
+🔥論盡都市人:冇錯?有搞錯!1,http://app4.rthk.hk/podcast/media/rthkmemory/h_v42.mp4
+🔥論盡都市人:門前雪2,http://app4.rthk.hk/podcast/media/rthkmemory/h_v43.mp4
+🔥論盡都市人:說不的男人3,http://app4.rthk.hk/podcast/media/rthkmemory/h_v44.mp4
+🔥黃金歲月:友情,http://app4.rthk.hk/podcast/media/rthkmemory/h_v51.mp4
+🔥黃金歲月:活力,http://app4.rthk.hk/podcast/media/rthkmemory/h_v52.mp4
+🔥黃金歲月:生活與藝術,http://app4.rthk.hk/podcast/media/rthkmemory/h_v53.mp4
+🔥黃金歲月:當18遇上98,http://app4.rthk.hk/podcast/media/rthkmemory/i_v17.mp4
+🔥黃金歲月:大海的女兒,http://app4.rthk.hk/podcast/media/rthkmemory/i_v20.mp4
+🔥香江歲月:香江歲月2,http://app4.rthk.hk/podcast/media/rthkmemory/h_v11.mp4
+🔥香江歲月:香江歲月3,http://app4.rthk.hk/podcast/media/rthkmemory/h_v12.mp4
+🔥裁決:誰憐赤子心2,http://app4.rthk.hk/podcast/media/rthkmemory/h_v25.mp4
+🔥裁決:人權地帶3,http://app4.rthk.hk/podcast/media/rthkmemory/h_v26.mp4
+🔥小時候:哥哥和妹妹,http://app4.rthk.hk/podcast/media/rthkmemory/f_v06.mp4
+🔥小時候:街上足球隊,http://app4.rthk.hk/podcast/media/rthkmemory/f_v07.mp4
+🔥小時候:貴族學校,http://app4.rthk.hk/podcast/media/rthkmemory/f_v08.mp4
+🔥歲月河山:我家的女人1,http://app4.rthk.hk/podcast/media/rthkmemory/h_v05.mp4
+🔥歲月河山:我家的女人2,http://app4.rthk.hk/podcast/media/rthkmemory/h_v06.mp4
+🔥百載鑪峰:集中營3,http://app4.rthk.hk/podcast/media/rthkmemory/b_v35.mp4
+🔥百載鑪峰:綺羅金翠1,http://app4.rthk.hk/podcast/media/rthkmemory/b_v33.mp4
+🔥人間有情:別矣冬日,http://app4.rthk.hk/podcast/media/rthkmemory/h_v16.mp4
+🔥人間有情:再會姻緣,http://app4.rthk.hk/podcast/media/rthkmemory/h_v17.mp4
+🔥小說家族:為逝去的(原著:顏純鈎),http://app4.rthk.hk/podcast/media/rthkmemory/h_v13.mp4
+🔥小說家族:像我這樣的一個女子(原著:西西),http://app4.rthk.hk/podcast/media/rthkmemory/h_v15.mp4
+🔥中國故事:失落的一代,http://archive1.rthk.hk/mp4/tv/2017/SINOCT2017M01600001_h.mp4
+🔥中國故事:田埂上的芭蕾,http://archive1.rthk.hk/mp4/tv/2017/SINOCT2017M01600004_h.mp4
+🔥議事論事:白色恐怖籠罩出版界,http://archive1.rthk.hk/mp4/tv/2015/LERXCT2015M03500015_h.mp4
+🔥性本善:流鶯,http://app4.rthk.hk/podcast/media/rthkmemory/i_v07.mp4
+🔥議事論事:街頭政治,http://app4.rthk.hk/podcast/media/rthkmemory/b_v25.mp4
+🔥百老薈:偉哥的秘密3,http://app4.rthk.hk/podcast/media/rthkmemory/h_v29.mp4
+🔥雙城記:信天游2,http://app4.rthk.hk/podcast/media/rthkmemory/h_v21.mp4
+🔥生活逼人來:人在潮退時,http://app4.rthk.hk/podcast/media/rthkmemory/i_v12.mp4
+🔥天地孩子:掃你一百下,http://app4.rthk.hk/podcast/media/rthkmemory/i_v13.mp4
+🔥我是地球兒:四色地鐵,http://app4.rthk.hk/podcast/media/rthkmemory/i_v15.mp4
+🔥花齊放:奇廟單車遊,http://app4.rthk.hk/podcast/media/rthkmemory/i_v24.mp4
+🔥大會堂五十風華:大會堂五十風華,http://app4.rthk.hk/podcast/media/rthkmemory/c_v19.mp4
+🔥金禧群星演唱:金禧群星演唱,http://app4.rthk.hk/podcast/media/rthkmemory/c_v22.mp4
+🔥香港電台金禧特輯:香港電台金禧特輯,http://app4.rthk.hk/podcast/media/rthkmemory/c_v21.mp4
+🔥保良局全港十九區歌唱總決賽:保良局全港十九區歌唱總決賽1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vsingcontest_01.mp4
+🔥保良局全港十九區歌唱總決賽:保良局全港十九區歌唱總決賽2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vsingcontest_02.mp4
+🔥勁Band衝天飛音樂會:勁Band衝天飛音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vband_1.mp4
+🔥勁Band衝天飛音樂會:勁Band衝天飛音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vband_2.mp4
+🔥地4屆十大中文金曲頒獎禮音樂會,http://podcast.rthk.hk/podcast/media/rthkmemory/g_agold_04.mp3
+🔥地5屆十大中文金曲頒獎禮音樂會,http://podcast.rthk.hk/podcast/media/rthkmemory/g_agold_05.mp3
+🔥地9屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_09_a_1-4.mp4
+🔥地9屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_09_b_5-9.mp4
+🔥地10屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_10_a_1-4.mp4
+🔥地10屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_10_b_5-8.mp4
+🔥地10屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_10_c_9-12.mp4
+🔥地11屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_11_a_1-4.mp4
+🔥地11屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_11_b_5-8.mp4
+🔥地11屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_11_c_9-12.mp4
+🔥地12屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_12_a_1-4.mp4
+🔥地12屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_12_b_5-8.mp4
+🔥地12屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_12_c_9-11.mp4
+🔥地13屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_13_a_1-4.mp4
+🔥地13屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_13_b_5-9.mp4
+🔥地14屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_14_a_1-4.mp4
+🔥地14屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_14_b_5-8.mp4
+🔥地15屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_15_a_1-4.mp4
+🔥地15屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_15_b_5-10.mp4
+🔥地16屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_16_a_1-4.mp4
+🔥地16屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_16_b_5-8.mp4
+🔥地16屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_16_c_9-10.mp4
+🔥地17屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_17_a_1-4.mp4
+🔥地17屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_17_b_5-8.mp4
+🔥地17屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_17_c_9-12.mp4
+🔥地17屆十大中文金曲頒獎禮音樂會4,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_17_d_13-16.mp4
+🔥地18屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_18_a_1-5.mp4
+🔥地18屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_18_b_6-10.mp4
+🔥地19屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_19_a_1-4.mp4
+🔥地19屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_19_b_5-8.mp4
+🔥地19屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_19_c_9-12.mp4
+🔥地19屆十大中文金曲頒獎禮音樂會4,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_19_d_13-16.mp4
+🔥地20屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_20_a_1-4.mp4
+🔥地20屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_20_b_5-8.mp4
+🔥地20屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_20_c_9-12.mp4
+🔥地21屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_21_a_1-4.mp4
+🔥地21屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_21_b_5-8.mp4
+🔥地21屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_21_c_9-12.mp4
+🔥地22屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_22_a_1-4.mp4
+🔥地22屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_22_b_5-8.mp4
+🔥地22屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_22_c_9-12.mp4
+🔥地23屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_23_a_1-4.mp4
+🔥地23屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_23_b_5-8.mp4
+🔥地23屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_23_c_9-12.mp4
+🔥地24屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_24_a_1-4.mp4
+🔥地24屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_24_b_5-8.mp4
+🔥地24屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_24_c_9-12.mp4
+🔥地25屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_25_a_1-4.mp4
+🔥地25屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_25_b_5-8.mp4
+🔥地25屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_25_c_9-11.mp4
+🔥地26屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_26_a_1-4.mp4
+🔥地26屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_26_b_5-8.mp4
+🔥地26屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_26_c_9-10.mp4
+🔥地27屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_27_a_1-5.mp4
+🔥地27屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_27_b_6-10.mp4
+🔥地28屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_28_a_1-5.mp4
+🔥地28屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_28_c_10-13.mp4
+🔥地29屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_29_a_1-4.mp4
+🔥地29屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_29_b_5-8.mp4
+🔥地29屆十大中文金曲頒獎禮音樂會3,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_29_c_9-11.mp4
+🔥地30屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_30_a_1-5.mp4
+🔥地30屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_30_b_6-10.mp4
+🔥地31屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_31_a_1-5.mp4
+🔥地31屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_31_b_6-10.mp4
+🔥地32屆十大中文金曲頒獎禮音樂會1,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_32_a_1-4.mp4
+🔥地32屆十大中文金曲頒獎禮音樂會2,http://app4.rthk.hk/podcast/media/rthkmemory/g_vgold_32_b_5-8.mp4
 🔥MNews,https://ythls.armelin.one/channel/UC4LjkybVKXCDlneVXlKAbmw.m3u8
 🔥Taiwan Plus TV,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV78.m3u8
 🔥TVBS Asia,http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
