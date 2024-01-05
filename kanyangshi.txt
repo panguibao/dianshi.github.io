@@ -1,0 +1,20 @@
+当然，这里是一个简单的HTML代码片段，可以生成一个包含文本链接的网页：
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>跳转网址</title>
+</head>
+<body>
+    <p>点击下面的链接跳转至指定网址：</p>
+    <a href="https://panguibao.github.io/dianshi.github.io/cctv1.html">CCTC1-9</a>
+    <a href="https://panguibao.github.io/dianshi.github.io/cctv2.html">CCTC10-8K</a>
+</body>
+</html>
+```
+
+请将 "目标网址" 替换为你想要链接跳转的实际网址，将 "你的文本" 替换为你希望显示的文本。
