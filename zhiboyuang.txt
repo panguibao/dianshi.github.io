@@ -3949,7 +3949,7 @@ Fashion TV (FTV) – France,https://fashs043.cloudycdn.services/scte/africa/afri
 FTV Tokyo,https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 Love Stories TV,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/f512431a-8ffb-4a80-b8a4-e06c99400c29/3.m3u8
 
-卍,#genre#
+宗教,#genre#
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱网络,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -3968,7 +3968,7 @@ BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m
 大悲忏法会3,https://www.fojiao.live/video/sv/41db97ef-189f6e540c9/41db97ef-189f6e540c9.mp4
 🔥生命,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 
-科学,#genre#
+🚀,#genre#
 🔥美国之音中文Auto,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 🔥美国之音中文1080p,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_1080.m3u8
 🔥美国之音中文720p,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
@@ -4174,7 +4174,7 @@ BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m
 🐶院會,https://lylive-videorent.cdn.hinet.net/out/u/live/gop4/ly/ly-Live1/hls-cl-tv/index.m3u8
 电视安装教程,#genre#
 无须优盘安装电视APP,https://vkvd189.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704642587362&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.189&type=3&sig=Ont6M_zYUF8&ct=0&urls=45.136.22.177&clientType=14&appId=512000384397&zs=43&id=5874566236727
-  _9527,#genre#
+   _9527,#genre#
 
 18+1,https://59ec5453559f0.streamlock.net/JennyForYou/smil:WEB3131/playlist.m3u8
 +18 Miami TV,https://59ec5453559f0.streamlock.net/Latino/smil:WEB3131/chunklist_w1313431720_b1896000.m3u8
