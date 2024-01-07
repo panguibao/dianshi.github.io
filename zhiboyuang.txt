@@ -3,7 +3,7 @@
 狗咬狗 赵少康VS曹兴诚 B,https://vkvd139.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704772439675&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.141&type=4&sig=ADcDPdSwwfw&ct=14&urls=185.226.52.152&clientType=14&appId=512000384397&zs=43&id=5882654165559
 綠绿能你不能,https://vkvd46.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704775993259&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.136&type=4&sig=7L3m5Yy7oi0&ct=14&urls=45.136.20.161&clientType=14&appId=512000384397&zs=43&id=5882866960951
 
-央视,#genre#
+高清央视,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -394,7 +394,7 @@ CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/CCTV-17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-卫视,#genre#
+高清卫视,#genre#
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
 西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
