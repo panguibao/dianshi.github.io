@@ -1353,6 +1353,7 @@ CCTV17,http://39.134.65.251/PLTV/88888888/224/3221225708/1.m3u8
 贪官纪录片,#genre#
 持续发力 纵深推进,https://res.cctvnews.cctv.com/video/1005/videos/2024/01/05/119291188307326976357011005/69dbb0eabe54433e98e6d44c101f5798-4.m3u8
 第1集解决独有难题,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20240106/76099fc082e848e2a3b471be26556cf4_H264_3000K_MP4/20240106191647135.m3u8
+第2集政治监督保障,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20240107/50833abec7864342853dba2a8ebabb00_H264_3000K_MP4/20240107183839661.m3u8
 零容忍,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/1bd3025188dd441d8abaf6c5f3388a89_H264_400K_MP4/20220120163456211.m3u8
 第1集不负十四亿,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/50e1275b24e944ef9d96093965e2049b_H264_3000K_MP4/20220120194852509.m3u8
 第2集打虎拍蝇,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/5cc6cb3f8d0048b88dd9bd96a2cc8568_H264_3000K_MP4/20220120193722739.m3u8
