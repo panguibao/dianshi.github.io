@@ -1,11 +1,3 @@
-台湾相声,#genre#
-狗咬狗 赵少康VS曹兴诚 A,https://vkvd458.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704772988671&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.203&type=5&sig=qDfMD2UtXd0&ct=0&urls=185.226.53.203&clientType=14&appId=512000384397&zs=43&id=5882630048311
-狗咬狗 赵少康VS曹兴诚 B,https://vkvd139.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704772439675&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.141&type=4&sig=ADcDPdSwwfw&ct=14&urls=185.226.52.152&clientType=14&appId=512000384397&zs=43&id=5882654165559
-綠绿能你不能,https://vkvd46.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704775993259&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.136&type=4&sig=7L3m5Yy7oi0&ct=14&urls=45.136.20.161&clientType=14&appId=512000384397&zs=43&id=5882866960951
-王立强诈骗专访,https://vkvd126.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704946303583&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.170&type=4&sig=y9zim43Xws8&ct=27&urls=45.136.21.155&clientType=14&appId=512000384397&zs=43&id=5891801156151
-王立强诈骗揭秘,https://vkvd468.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704946504883&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.210&type=3&sig=z5CBa8mNy_c&ct=0&urls=45.136.21.133&clientType=14&appId=512000384397&zs=43&id=5891853257271
-
-
 🔥高清 央视,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -2834,6 +2826,38 @@ NEWSPlus,http://sk.cri.cn/846.m3u8
 河南戏曲,https://stre.hndt.com/live/yule/playlist.m3u8
 河南教育,https://stre.hndt.com/live/jiaoyu/playlist.m3u8
 河南大象资讯台,https://stre.hndt.com/live/nongcun/playlist.m3u8
+贪官纪录片,#genre#
+持续发力 纵深推进,https://res.cctvnews.cctv.com/video/1005/videos/2024/01/05/119291188307326976357011005/69dbb0eabe54433e98e6d44c101f5798-4.m3u8
+第1集解决独有难题,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20240106/76099fc082e848e2a3b471be26556cf4_H264_3000K_MP4/20240106191647135.m3u8
+零容忍,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/1bd3025188dd441d8abaf6c5f3388a89_H264_400K_MP4/20220120163456211.m3u8
+第1集不负十四亿,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/50e1275b24e944ef9d96093965e2049b_H264_3000K_MP4/20220120194852509.m3u8
+第2集打虎拍蝇,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/5cc6cb3f8d0048b88dd9bd96a2cc8568_H264_3000K_MP4/20220120193722739.m3u8
+第3集惩前毖后,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/5220d4c4b22a4fb98b5d5d274276af1e_H264_3000K_MP4/20220120202701944.m3u8
+第4集系统施治,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220118/23cb514f78ba439789ce9fc00cd1bffc_H264_3000K_MP4/20220118195410019.m3u8
+第5集永远在路上,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220119/d145cd287a1c486abad6db1ce2e9dbaf_H264_3000K_MP4/20220119133409608.m3u8
+正风反腐就在身边,https://res.cctvnews.cctv.com/video/1005/d/f75b8b2f24064a53862e48d34c5a0914/8fb5d4c8a653492690cf6a2c2ff86de0.mp4
+第1集政治监督,https://res.cctvnews.cctv.com/video/1005/d/ab615d7e42f54b6db71a32fb7ad89c5d/7a0721d2ec504b7bb73bb22d7829219a.m3u8
+第2集守护民生,https://res.cctvnews.cctv.com/video/1005/d/a1b90ef8a285432e8ff108bd1f88c58f/7227a11d3dbf44949d8015f0fba751d1.m3u8
+第3集坚守铁规,https://res.cctvnews.cctv.com/video/1005/d/7110db6b16a24a8989fa1f14e0d50f74/4b07465419874d34975b9d7a6f87d924.m3u8
+第4集严正家风,https://res.cctvnews.cctv.com/video/1005/d/23fe7bbe45744f50811d0265a82aa91d/6c6e6dd0d37744078afb9ccd9d40f7b0.m3u8
+永远吹冲锋号,https://res.cctvnews.cctv.com/video/1005/videos/2023/01/07/106136128311085465902011005/0ee8e063798641a59954b8eedd89c7d9-4.m3u8
+第1集第二个答案,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20230107/35c67861b09e49a9a3424cde40ba9584_H264_3000K_MP4/20230107203928297.m3u8
+第2集政治监督,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20230108/87e90c6c5e53485d9ee9c580a0e256d4_H264_3000K_MP4/20230108142044380.m3u8
+第3集铁规矩硬杠杠,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20230109/4bcd41930ba047ccbf8a03c5665507e1_H264_3000K_MP4/20230109141605785.m3u8
+第4集永远在路上,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20230110/a33cee6a400843d5b40d657320c770d7_H264_3000K_MP4/20230110175543373.m3u8
+民法典进行时,https://res.cctvnews.cctv.com/asp/hls/2000/0303000a/3/default/533079e127ae48a6a6299a7804df2f9c/2000.m3u8
+第1集价值引领,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220101/2b750447700f4b8a851ef3d7446e9f3a_H264_3000K_MP4/20220101220555132.m3u8
+第2集生命尊严,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220102/2f49849a494e4763aa2b233bf38694f4_H264_3000K_MP4/20220102221010244.m3u8
+第3集创新发展,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220104/9a397c53a16a42f7bd06b2bfd7194702_H264_3000K_MP4/20220104091145793.m3u8
+第4集顺应时代,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220105/c6cd7e3e662149369b72c6b6a89ce212_H264_3000K_MP4/20220105095545224.m3u8
+第5集以人为本,https://cms-emer-res.cctvnews.cctv.com/video/1025/p/92841183107092480372011025/56b3e7bf795e4f49aec128c4fb1e5963-4.m3u8
+
+🐸台湾相声,#genre#
+狗咬狗 赵少康VS曹兴诚 A,https://vkvd458.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704772988671&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.203&type=5&sig=qDfMD2UtXd0&ct=0&urls=185.226.53.203&clientType=14&appId=512000384397&zs=43&id=5882630048311
+狗咬狗 赵少康VS曹兴诚 B,https://vkvd139.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704772439675&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.141&type=4&sig=ADcDPdSwwfw&ct=14&urls=185.226.52.152&clientType=14&appId=512000384397&zs=43&id=5882654165559
+綠绿能你不能,https://vkvd46.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704775993259&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.136&type=4&sig=7L3m5Yy7oi0&ct=14&urls=45.136.20.161&clientType=14&appId=512000384397&zs=43&id=5882866960951
+王立强诈骗专访,https://vkvd126.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704946303583&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.170&type=4&sig=y9zim43Xws8&ct=27&urls=45.136.21.155&clientType=14&appId=512000384397&zs=43&id=5891801156151
+王立强诈骗揭秘,https://vkvd468.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704946504883&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.210&type=3&sig=z5CBa8mNy_c&ct=0&urls=45.136.21.133&clientType=14&appId=512000384397&zs=43&id=5891853257271
 
 台湾,#genre#
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
