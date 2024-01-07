@@ -3848,10 +3848,7 @@ NEWSPlus,http://sk.cri.cn/846.m3u8
 
 
 
-台湾,#genre#
-大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
-大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-大爱网络,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+
 日本,#genre#
 日本QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
 日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
@@ -3953,10 +3950,11 @@ FTV Tokyo,https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 Love Stories TV,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/f512431a-8ffb-4a80-b8a4-e06c99400c29/3.m3u8
 
 卍,#genre#
-人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w1771767427.m3u8
-大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+大爱网络,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 大爱广播1,http://38.96.148.28:8156/stream
+人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w1771767427.m3u8
 净空,https://sg1.hwadzan.info/liveedge/_definst_/smil:livetv.smil/playlist.m3u8
 JingKong,https://sg1.hwadzan.info/liveedge/_definst_/English/playlist.m3u8
 BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m3u8
