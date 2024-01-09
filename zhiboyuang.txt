@@ -34,6 +34,10 @@
 凤凰香港,https://epg.pw/stream/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
+半岛英语,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
+半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 中央央视1,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -4521,7 +4525,16 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 东新闻综合,http://mmitv.top/test/tianma.php?id=ddzh
 优漫卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225795/index.m3u8
 嘉佳卡通,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226227/index.m3u8
+
+
+
+
+
 广播,#genre#
+
+
+
+
 中华,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 中国,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 中国乡村,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
@@ -5183,11 +5196,15 @@ TV Osaka ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx0
 WOWOW Cinema ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07
 WOWOW Live ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 YTV ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04
+
+
+
+
 外国,#genre#
-半岛英语,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+
+
+
+
 ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 韩·KCTV,http://119.77.96.184:1935/chn21/chn21/chunklist_w252131137.m3u8
 美·红牛运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
@@ -5228,6 +5245,11 @@ FTV Tokyo,https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
 Love Stories TV,https://84e619480232400a842ce499d053458a.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/ONO_LoveStoriesTV/f512431a-8ffb-4a80-b8a4-e06c99400c29/3.m3u8
 
 宗教,#genre#
+
+
+
+
+
 大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
 大爱网络,http://www.dalitv.com.tw:4568/live/dali/index.m3u8
@@ -5247,6 +5269,12 @@ BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m
 🔥生命,http://211.73.19.201/live/AB167E56-808C-81D4-6471-76DC400D5192.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1920X1080
 
 🚀,#genre#
+
+
+
+
+
+
 🔥美国之音中文Auto,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8
 🔥美国之音中文1080p,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_1080.m3u8
 🔥美国之音中文720p,https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist_0720.m3u8
