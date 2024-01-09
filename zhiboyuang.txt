@@ -2337,6 +2337,9 @@ IHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 持续发力 纵深推进,https://res.cctvnews.cctv.com/video/1005/videos/2024/01/05/119291188307326976357011005/69dbb0eabe54433e98e6d44c101f5798-4.m3u8
 第1集解决独有难题,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20240106/76099fc082e848e2a3b471be26556cf4_H264_3000K_MP4/20240106191647135.m3u8
 第2集政治监督保障,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20240107/50833abec7864342853dba2a8ebabb00_H264_3000K_MP4/20240107183839661.m3u8
+第3集强化正风肃纪,https://cms-emer-res.cctvnews.cctv.com/cctv/video/6e4e64371eb9499f9d17bd0c3a56bd13_H264_3000K_MP4/6e4e64371eb9499f9d17bd0c3a56bd13_H264_3000K_MP4.m3u8
+第4集一体推进“三不腐”,https://cms-emer-res.cctvnews.cctv.com/cctv/video/80a3aeb301004bb2ae5be47a81d50887_H264_3000K_MP4/80a3aeb301004bb2ae5be47a81d50887_H264_3000K_MP4.m3u8
+
 零容忍,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/1bd3025188dd441d8abaf6c5f3388a89_H264_400K_MP4/20220120163456211.m3u8
 第1集不负十四亿,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/50e1275b24e944ef9d96093965e2049b_H264_3000K_MP4/20220120194852509.m3u8
 第2集打虎拍蝇,https://cms-emer-res.cctvnews.cctv.com/cctv/video/20220120/5cc6cb3f8d0048b88dd9bd96a2cc8568_H264_3000K_MP4/20220120193722739.m3u8
