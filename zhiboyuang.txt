@@ -1,4 +1,4 @@
-🔥高清 央视,#genre#
+中央央视1,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
@@ -389,7 +389,7 @@ CCTV17,http://zteres.sn.chinamobile.com:6060/000000001000/1000000005000265015/1.
 CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061_461954091/migu/kailu/20200324/CCTV-17hd/57/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=112.45.97.120&timestamp=20230208133753&ContentId=265667526&timezone=UTC&mtv_session=2ab00b83c917e8ba1b1bb082711b8b77&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=4c04c5308e4761e3cc4b36134b05b864
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
-🔥高清 卫视,#genre#
+地方卫视1,#genre#
 天津卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226204/1.m3u8
 西藏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226212/1.m3u8
 湖北卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226206/1.m3u8
@@ -641,7 +641,7 @@ CCTV17,http://hms224nc1972679578.live.aikan.miguvideo.com/wh7f454c46tw1594433061
 浙江卫视,http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 重庆卫视,http://221.2.36.34:8888/newlive/live/hls/31/live.m3u8
 
-😌标枪 央视,#genre#
+中央央视2,#genre#
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.67.110/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -879,7 +879,7 @@ CCTV17,http://39.134.65.247/PLTV/88888888/224/3221225708/1.m3u8
 CCTV17,http://39.134.65.239/PLTV/88888888/224/3221225708/1.m3u8
 CCTV17,http://39.134.65.251/PLTV/88888888/224/3221225708/1.m3u8
 
-😌卫视 标清,#genre#
+地方卫视2,#genre#
 湖南卫视,http://39.134.65.200/PLTV/88888888/224/3221225506/1.m3u8
 湖南卫视,http://39.134.65.213/PLTV/88888888/224/3221225506/1.m3u8
 湖南卫视,http://39.134.65.196/PLTV/88888888/224/3221225506/1.m3u8
@@ -1351,7 +1351,7 @@ CCTV17,http://39.134.65.251/PLTV/88888888/224/3221225708/1.m3u8
 康巴卫视,http://39.134.65.194/PLTV/88888888/224/3221225527/1.m3u8
 康巴卫视,http://39.134.64.179:6610/PLTV/88888888/224/3221225660/index.m3u8
 
-央视卫视3,#genre#
+中央央视3,#genre#
 CCTV1,http://123.154.119.204:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1,http://180.101.226.42:9901/tsfile/live/0001_1.m3u8?key=txiptv
 CCTV1,http://180.158.145.181:9901/tsfile/live/0001_1.m3u8?key=txiptv
@@ -1506,7 +1506,7 @@ CCTV17,http://42.176.154.142:9901/tsfile/live/1164_1.m3u8?key=txiptv
 CCTV风云音乐,http://42.176.154.142:9901/tsfile/live/1123_1.m3u8?key=txiptv
 CCTV第一剧场,http://42.176.154.142:9901/tsfile/live/1082_1.m3u8?key=txiptv
 CCTV风云剧场,http://42.176.154.142:9901/tsfile/live/1084_1.m3u8?key=txiptv
-卫视3,#genre#
+地方卫视3,#genre#
 湖南卫视,http://180.101.226.42:9901/tsfile/live/0128_1.m3u8?key=txiptv
 湖南卫视,http://175.13.203.202:9901/tsfile/live/0128_1.m3u8?key=txiptv
 湖南卫视,http://219.137.203.225:9901/tsfile/live/0128_1.m3u8?key=txiptv
@@ -1837,6 +1837,7 @@ CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]:80/PLTV/1/224/3221230960/1.m3
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 CCTV8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
+收费频道,#genre#
 CCTV第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 CCTV电视指南,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 CCTV怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
@@ -2359,7 +2360,7 @@ IHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 王立强诈骗揭秘,https://vkvd468.mycdn.me/?srcIp=117.182.182.183&pr=40&expires=1704946504883&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.210&type=3&sig=z5CBa8mNy_c&ct=0&urls=45.136.21.133&clientType=14&appId=512000384397&zs=43&id=5891853257271
 
 
-地方,#genre#
+地方频道,#genre#
 五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 固镇新闻,http://www.guzhenm.com:7001/hls/hd-live.m3u8
 徽固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
