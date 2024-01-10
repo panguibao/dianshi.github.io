@@ -35,13 +35,10 @@
 凤凰香港,https://epg.pw/stream/8770e89223a086eb1b8a0c931e42296d772a8069ad3eb72540e0c434e7cb3e93.m3u8
 凤凰香港,http://113.117.74.18:8081/hls/38/index.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-金砖中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-金砖英语,https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
-金砖俄语,https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-金砖葡萄牙语,https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-tvcomunitaria,https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
-combrasiltv,https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
-todapalavra,https://todapalavrahttps://s04.maxcast.com.br:8058/live?id=719978071261
+金砖国家电视台中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖国家电视台英语,https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+金砖国家电视台俄语,https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+金砖国家电视台葡萄牙语,https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 半岛英语,https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
