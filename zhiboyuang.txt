@@ -693,6 +693,69 @@ CCTV移动,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/649e1903
 安徽国际频道,http://snapshot-live-ht.ahtv.cn/atvrtmp/143_q_live161829422933950.m3u8
 中国天气,http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 广东文化,https://glive.grtn.cn/live/wenhua_test0203.m3u8
+南宁新闻综合,http://hls.nntv.cn/nnlive/NNTV_NEWS_A.m3u8
+南宁文旅生活,http://hls.nntv.cn/nnlive/NNTV_METRO_A.m3u8
+南宁影视娱乐,http://hls.nntv.cn/nnlive/NNTV_VOD_A.m3u8
+南宁公共频道,http://hls.nntv.cn/nnlive/NNTV_PUB_A.m3u8
+南宁隆安广播电视台,http://hls.nntv.cn/nnlive/LATV_A.m3u8
+南宁老友LIVE,http://hls.nntv.cn/nnlive/NNTV_LYOU.m3u8
+重庆卫视,http://sjlivecdn9.cbg.cn/202401110957/app_2/_definst_/ls_3.stream/chunklist.m3u8
+重庆新闻,http://sjlivecdn9.cbg.cn/202401110958/app_2/_definst_/ls_3.stream/chunklist.m3u8
+陕西卫视,http://stream.snrtv.com/sxbc-star-mqFIV5.m3u8
+陕西新闻资讯,http://stream.snrtv.com/sxbc-1-jryEYZ.m3u8
+陕西都市青春,http://stream.snrtv.com/sxbc-2-gkIW19.m3u8
+陕西生活频道,http://stream.snrtv.com/sxbc-3-pCIKPY.m3u8
+陕西公共频道,http://stream.snrtv.com/sxbc-5-ctyGN3.m3u8
+陕西乐家购物,http://tvplay.lejogo.com/sxtv6/cnwest.m3u8
+陕西体育休闲,http://stream.snrtv.com/sxbc-7-ehkxSY.m3u8
+陕西农林卫视,http://stream.snrtv.com/sxbc-nl-dELZ05.m3u8
+陕西移动电视,http://stream.snrtv.com/sxbc-yd-hitFLX.m3u8
+延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
+延边韩语综合频道,http://live.ybtvyun.com/video/s10006-b571c289a478/index.m3u8
+延边汉语综合频道,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8
+延边可视广播,http://live.ybtvyun.com/video/s10006-c76c5265616/index.m3u8
+延边新闻广播,http://live.ybtvyun.com/audio/s10006-ab71870011fc/index.m3u8
+延边交通文艺广播,http://live.ybtvyun.com/audio/s10006-d4f0a3f5e30e/index.m3u8
+延边旅游广播,http://live.ybtvyun.com/audio/s10006-9b1a67a2d892/index.m3u8
+吉林综艺文化,http://stream13.jlntv.cn/zypdhd/playlist.m3u8?_upt=af1c81e41704950598
+吉林公共频道,http://stream13.jlntv.cn/ggpdhd/playlist.m3u8?_upt=6ce284a21704950562
+吉林乡村频道,http://stream13.jlntv.cn/xcpdhd/playlist.m3u8?_upt=94143f9d1704950593
+吉林生活频道,http://stream12.jlntv.cn/shpdhd/playlist.m3u8?_upt=fa7bfd061704950852
+吉林影视频道,http://stream13.jlntv.cn/yspdhd/playlist.m3u8?_upt=2163d0121704950856
+吉林新闻,http://stream10.jlntv.cn/am738/playlist.m3u8?_upt=149a637c1691555291
+吉林资讯,http://stream10.jlntv.cn/fm1001/playlist.m3u8?_upt=d01146801691555285
+吉林健康娱乐圈,http://stream10.jlntv.cn/fm1019/playlist.m3u8?_upt=87593c431691555281
+吉林旅游,http://stream10.jlntv.cn/fm1033/playlist.m3u8?_upt=e962c7221691555278
+吉林交通,http://stream10.jlntv.cn/fm1038/playlist.m3u8?_upt=6f0da5891691555275
+甘肃都市调频,http://hls.gstv.com.cn/9hvng2/3o3565.m3u8
+甘肃交通广播,http://hls.gstv.com.cn/9hvng2/189xap.m3u8
+甘肃青春调频,http://hls.gstv.com.cn/9hvng2/ic83k2.m3u8
+甘肃经济广播,http://hls.gstv.com.cn/9hvng2/kjs9sv.m3u8
+甘肃农村广播,http://hls.gstv.com.cn/9hvng2/q7q84k.m3u8
+河北综合广播,http://radio.pull.hebtv.com/live/hebzh.m3u8
+河北新闻广播,http://radio.pull.hebtv.com/live/hebxw.m3u8
+河北经济广播,http://radio.pull.hebtv.com/live/hebjj.m3u8
+河北交通广播,http://radio.pull.hebtv.com/live/hebjt.m3u8
+河北文艺广播,http://radio.pull.hebtv.com/live/hebwy.m3u8
+河北生活广播,http://radio.pull.hebtv.com/live/hebshzx.m3u8
+河北音乐广播,http://radio.pull.hebtv.com/live/hebyy.m3u8
+河北农民广播,http://radio.pull.hebtv.com/live/hebnczx.m3u8
+河北旅游文化广播,http://radio.pull.hebtv.com/live/hebly.m3u8
+河北汽车音乐广播,http://radio.pull.hebtv.com/live/hebqcyy.m3u8
+南宁990新闻台,http://hls.nntv.cn/nnradio/NNRAD_990_wz.m3u8
+南宁1074交通台,http://hls.nntv.cn/nnradio/NNRAD_1074_wz.m3u8
+南宁经典1049,http://hls.nntv.cn/nnradio/NNRAD_1049_wz.m3u8
+南宁快乐895,http://hls.nntv.cn/nnradio/NNRAD_895_wz.m3u8
+陕西新闻广播 FM106.6,http://radio.sxtvs.com/radio/news.mp3
+都市广播-陕广新闻 FM101.8,http://radio.sxtvs.com/radio/city.mp3
+陕西交通广播 FM91.6,http://radio.sxtvs.com/radio/traffic.mp3
+陕西经济广播-汽车调频 FM89.6,http://radio.sxtvs.com/radio/encnomy.mp3
+陕西音乐广播 FM98.8,http://radio.sxtvs.com/radio/music.mp3
+陕西秦腔广播 FM101.1,http://radio.sxtvs.com/radio/cityopera.mp3
+陕西农村广播 AM900,http://radio.sxtvs.com/radio/country.mp3
+陕西戏曲广播 FM107.8 AM747,http://radio.sxtvs.com/radio/opera.mp3
+陕西故事广播 FM87.8,http://radio.sxtvs.com/radio/story.mp3
+陕西青少广播 FM105.5,http://radio.sxtvs.com/radio/kids.mp3
 
 中央央视2,#genre#
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
