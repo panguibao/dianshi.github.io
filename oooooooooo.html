@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>自动跳转</title>
+    <script>
+        // 获取用户代理
+        var userAgent = navigator.userAgent.toLowerCase();
+
+        // 判断是否为电视设备
+        var isTV = userAgent.includes('smarttv') || userAgent.includes('tv');
+
+        // 等待3秒后跳转
+        setTimeout(function() {
+            if (isTV) {
+                // 如果是电视设备，跳转到直播源
+  window.location.href = 'https://panguibao.github.io/dianshi.github.io/zhiboyuang.txt';
+            } else {
+                // 如果是手机或其他设备，跳转到百度
+                window.location.href = 'https://www.baidu.com';
+            }
+        }, 3000);
+    </script>
+</head>
+<body>
+    <!-- 页面内容 -->
+</body>
+</html>
