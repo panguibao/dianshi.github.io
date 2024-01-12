@@ -2201,6 +2201,38 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 高尔夫•网球,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226978/index.m3u8
 央视文化精品,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226981/index.m3u8
 电视指南,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002545/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+👽山歌寥哉,#genre#
+序曲,https://vkvd239.mycdn.me/?expires=1705351341830&srcIp=117.182.181.91&pr=40&srcAg=CHROME_ANDROID&ms=45.136.20.152&type=5&sig=vcUk8-Uf6cY&ct=0&urls=45.136.22.170&clientType=14&appId=512000384397&zs=43&id=5925338679863
+罗刹海市,https://vkvd479.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705552351950&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.164&type=5&sig=eqZwhbDf9mE&ct=0&urls=185.226.52.198&clientType=14&appId=512000384397&zs=43&id=5925341301303
+花妖,https://vkvd109.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705552398999&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.153&type=5&sig=1aUGm29oYL4&ct=0&urls=45.136.22.156&clientType=14&appId=512000384397&zs=43&id=5925343201847
+镜听,https://vkvd189.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705552319233&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.189&type=5&sig=SPKBiuXXLPQ&ct=0&urls=185.226.52.171&clientType=14&appId=512000384397&zs=43&id=5925343791671
+路南柯,https://vkvd446.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705554282028&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.161&type=5&sig=4PnHjfnyH5E&ct=0&urls=45.136.20.168&clientType=14&appId=512000384397&zs=43&id=5925347068471
+颠倒歌,https://vkvd194.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705554314022&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.201&type=5&sig=5GVVZ0MFkzo&ct=0&urls=185.226.53.167&clientType=14&appId=512000384397&zs=43&id=5925347920439
+画壁,https://vkvd84.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705554209999&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.174&type=5&sig=Psyu870flaM&ct=0&urls=185.226.52.190&clientType=14&appId=512000384397&zs=43&id=5925350804023
+珠儿,https://vkvd197.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705554375883&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.196&type=5&sig=FU1XnoAjvw8&ct=0&urls=45.136.22.177&clientType=14&appId=512000384397&zs=43&id=5925349100087
+翩翩,https://vkvd443.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705554444128&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.196&type=5&sig=iwgQ-aIITsI&ct=0&urls=185.226.52.203&clientType=14&appId=512000384397&zs=43&id=5925348510263
+画皮,https://vkvd238.mycdn.me/?srcIp=43.249.50.170&pr=40&expires=1705553041172&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.151&type=5&sig=BmWuNg2bF5s&ct=0&urls=185.226.53.162&clientType=14&appId=512000384397&zs=43&id=5925352180279
+未来的底片,https://vkvd19.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705553758413&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.150&type=5&sig=BXUlrgCguS8&ct=0&urls=45.136.20.205&clientType=14&appId=512000384397&zs=43&id=5925353622071
+
+
+
+🈲歌,#genre#
+玻璃心,https://vkvd46.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705558386559&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.136&type=5&sig=ima6-vRcXYI&ct=0&urls=185.226.53.140&clientType=14&appId=512000384397&zs=43&id=5925675797047
+玻璃心制作花絮,https://vkvd194.mycdn.me/?expires=1705358542537&srcIp=117.182.181.91&pr=40&srcAg=CHROME_ANDROID&ms=45.136.22.201&type=4&sig=WslKg59Tc5c&ct=27&urls=185.226.52.170&clientType=14&appId=512000384397&zs=43&id=5925685955127
+鬼島,https://vkvd457.mycdn.me/?expires=1705359199341&srcIp=117.182.181.91&pr=40&srcAg=CHROME_ANDROID&ms=45.136.20.202&type=5&sig=72hPN_Nq_gM&ct=0&urls=45.136.21.176&clientType=14&appId=512000384397&zs=43&id=5925689231927
+鬼岛制作花絮,https://vkvd212.mycdn.me/?expires=1705359242261&srcIp=117.182.181.91&pr=40&srcAg=CHROME_ANDROID&ms=185.226.53.203&type=5&sig=RxNM0NTP4D4&ct=0&urls=45.136.21.205&clientType=14&appId=512000384397&zs=43&id=5925690739255
+墙外,https://vkvd187.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559285288&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.187&type=5&sig=uJZbpV3pJ60&ct=0&urls=45.136.21.164&clientType=14&appId=512000384397&zs=43&id=5925692181047
+墙外制作花絮,https://vkvd480.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559321369&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.165&type=5&sig=RAQLIxDQRTo&ct=0&urls=185.226.52.172&clientType=14&appId=512000384397&zs=43&id=5925693426231
+脑羞了,https://vkvd456.mycdn.me/?expires=1705359363860&srcIp=117.182.181.91&pr=40&srcAg=CHROME_ANDROID&ms=45.136.20.201&type=5&sig=ohb4grEWOAs&ct=0&urls=45.136.22.154&clientType=14&appId=512000384397&zs=43&id=5925694212663
+脑羞了制作花絮,https://vkvd86.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559399908&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.176&type=5&sig=GuqsSLIqWdY&ct=0&urls=185.226.53.136&clientType=14&appId=512000384397&zs=43&id=5925694933559
+脑羞了叫嚣,https://vkvd95.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559433636&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.139&type=5&sig=4CY6qIAEYFI&ct=0&urls=45.136.22.169&clientType=14&appId=512000384397&zs=43&id=5925695326775
+脑羞了解析,https://vkvd97.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559498304&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.141&type=5&sig=VyzsV0AQ95Y&ct=0&urls=45.136.20.166&clientType=14&appId=512000384397&zs=43&id=5925695982135
+在人间原版,https://vkvd253.mycdn.me/?expires=1705359545268&srcIp=117.182.181.91&pr=40&srcAg=CHROME_ANDROID&ms=45.136.20.169&type=5&sig=5AKNvQDVIEA&ct=0&urls=45.136.22.139&clientType=14&appId=512000384397&zs=43&id=5925698603575
+在人间改版,https://vkvd459.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559578748&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.204&type=3&sig=_2yKYA8wet8&ct=0&urls=185.226.53.188&clientType=14&appId=512000384397&zs=43&id=5925698996791
+血染的风采,https://vkvd445.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559612146&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.198&type=5&sig=tnJnBpivjuw&ct=0&urls=45.136.22.175&clientType=14&appId=512000384397&zs=43&id=5925700569655
+中华民国颂,https://vkvd258.mycdn.me/?expires=1705359653618&srcIp=117.182.181.91&pr=40&srcAg=CHROME_ANDROID&ms=45.136.20.179&type=5&sig=FdrfXv25Ua4&ct=0&urls=185.226.53.188&clientType=14&appId=512000384397&zs=43&id=5925701290551
+大国民,https://vkvd198.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559703604&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.197&type=2&sig=3_CI-VRYW0U&ct=0&urls=185.226.53.216&clientType=14&appId=512000384397&zs=43&id=5925701421623
+煎熬,https://vkvd186.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559733931&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.186&type=2&sig=T49mgLxL324&ct=0&urls=45.136.21.148&clientType=14&appId=512000384397&zs=43&id=5925701945911
 
 
 
@@ -4919,11 +4951,6 @@ BBCNews,https://utulsa.streguys1.com/KWGSHD3-MP3
 TimesRadio,http://timesradio.wireless.radio/stre
 NewsRadioUK,http://playoutonestreing.com:8008/stre
 MSNBCRadio,http://peridot.streguys.com:7850/live
-
-
-
-
-
 中华,http://ngcdn005.cnr.cn/live/zhzs/index.m3u8
 中国,http://ngcdn001.cnr.cn/live/zgzs/index.m3u8
 乡村,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
