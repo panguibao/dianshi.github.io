@@ -1,10 +1,3 @@
-金砖国家,#genre#
-
-金砖汉语,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
-金砖英语,https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
-金砖俄语,https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
-金砖葡萄牙语,https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
-
 凤凰卫视,#genre#
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
@@ -47,6 +40,10 @@
 半岛英语,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 半岛阿语,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 俄罗斯中文,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖汉语,http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+金砖英语,https://engbrics.mediacdn.ru/cdn/brics/english/playlist.m3u8
+金砖俄语,https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
+金砖葡萄牙语,https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 
 
 中央央视1,#genre#
