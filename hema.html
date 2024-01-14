@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Conditional Redirect</title>
+    <script>
+        // JavaScript代码，根据条件重定向
+        function redirectToPlatform() {
+            // 获取用户代理（User Agent）字符串
+            var userAgent = navigator.userAgent.toLowerCase();
+
+            // 根据不同条件进行重定向
+            if (userAgent.includes("micromessenger")) {
+                // 微信环境
+                window.location.href = "https://www.tencent.com";
+            } else if (userAgent.includes("alipay")) {
+                // 支付宝环境
+                window.location.href = "https://www.youku.com";
+            } else if (userAgent.includes("cctv") && userAgent.includes("android")) {
+                // 电视环境
+                window.location.href = "YOUR_MOBILE_CCTV_URL";
+            } else {
+                // 默认情况，打开浏览器时跳转至百度
+                window.location.href = "https://www.baidu.com";
+            }
+        }
+    </script>
+</head>
+<body onload="redirectToPlatform()">
+    <!-- 页面内容，可根据需要添加 -->
+</body>
+</html>
