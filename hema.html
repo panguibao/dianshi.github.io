@@ -10,17 +10,16 @@
             // 获取用户代理（User Agent）字符串
             var userAgent = navigator.userAgent.toLowerCase();
 
-            // 根据不同条件进行重定向
-            if (userAgent.includes("micromessenger")) {
-                // 微信环境
-                window.location.href = "https://www.tencent.com";
+            // 微信环境
+                window.location.href = "wxp://f2f0fjtaK7OH065Oy1aHR9vPytHJv4vvkJIQV6j5BgH_LmNU4Cl5nIPIu3sleqJWJ_fn";
             } else if (userAgent.includes("alipay")) {
                 // 支付宝环境
-                window.location.href = "https://www.youku.com";
+                window.location.href = "https://qr.alipay.com/fkx12071xvvnv8bwtqujuda";
             } else if (userAgent.includes("cctv") && userAgent.includes("android")) {
                 // 电视环境
-                window.location.href = "YOUR_MOBILE_CCTV_URL";
+                window.location.href = "https://panguibao.github.io/dianshi.github.io/wodedianshijia.html";
             } else {
+            
                 // 默认情况，打开浏览器时跳转至百度
                 window.location.href = "https://www.baidu.com";
             }
