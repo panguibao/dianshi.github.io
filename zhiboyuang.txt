@@ -155,6 +155,13 @@ CCTV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225744/17/index.m3u
 CCTV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225744/71/index.m3u8?fmt=ts2hls
 CCTV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225744/72/index.m3u8?fmt=ts2hls
 CCTV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225779/1/index.m3u8?fmt=ts2hls
+CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw3772680253_-1555628407/ott.mobaibox.com/PLTV/3/224/3221227549/index.m3u8?icpid=3&RTS=1668594272&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
+CCTV3,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
+CCTV4,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/1/224/3221228156/index.m3u8
+CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV4,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV4美洲,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
 CCTV4美洲,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/2/index.m3u8?fmt=ts2hls
 CCTV4美洲,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226269/3/index.m3u8?fmt=ts2hls
@@ -4580,7 +4587,7 @@ CETV4,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226338/87/index.m3u
 遵义综合,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226026/97/index.m3u8?fmt=ts2hls
 遵义综合,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226026/98/index.m3u8?fmt=ts2hls
 遵义综合,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221226026/99/index.m3u8?fmt=ts2hls
-江苏,#genre#
+江苏电视,#genre#
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225746/index.m3u8
 江苏新闻,http://ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8
 江苏新闻,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/wh7f454c46tw352016925_-1280546318/ott.mobaibox.com/PLTV/3/224/3221225925/index.m3u8?icpid=3&RTS=1674380467&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
@@ -4612,7 +4619,7 @@ l江苏经典流行音乐广播,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/w
 江苏音乐广播,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw361161076_-929143252/ott.mobaibox.com/PLTV/3/224/3221227949/index.m3u8?icpid=3&RTS=1674380476&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 江苏健康广播,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw359865952_96153757/ott.mobaibox.com/PLTV/3/224/3221227952/index.m3u8?icpid=3&RTS=1674380475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 连云港公共 ,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
-上海,#genre#
+上海电视,#genre#
 东方卫视,http://180.158.145.181:9901/tsfile/live/0107_1.m3u8?key=txiptv
 东方卫视,http://180.101.226.42:9901/tsfile/live/0107_1.m3u8?key=txiptv
 东方卫视,http://221.233.192.152:9901/tsfile/live/0107_1.m3u8?key=txiptv
@@ -4631,7 +4638,7 @@ l江苏经典流行音乐广播,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/w
 上海五星体育,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001018/index.m3u8
 上海五星体育,http://111.40.196.25:443/PLTV/88888888/224/3221225503/1.m3u8
 优漫卡通,https://live-hls.jstv.com/livezhuzhan/ymkt.m3u8?upt=230be0e52510710360
-宁夏,#genre#
+宁夏电视,#genre#
 宁夏卫视,https://hls.ningxiahuangheyun.com/live/nxws1M.m3u8
 宁夏公共,https://hls.ningxiahuangheyun.com/live/nxgg1M.m3u8
 宁夏经济,https://hls.ningxiahuangheyun.com/live/nxjj1M.m3u8
