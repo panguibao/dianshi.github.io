@@ -3,7 +3,7 @@
 澳洲华文一台,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 澳洲华文二台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 澳洲华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
-
+美国中文电视台,https://cdnts.sinovision.net/livestream.m3u8
 央视超清,#genre#
 CCTV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/12/index.m3u8?fmt=ts2hls
