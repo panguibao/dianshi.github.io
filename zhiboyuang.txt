@@ -4,7 +4,6 @@
 澳洲华文二台,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 澳洲华文六台,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
 重温经典,http://cg12.hunancatv.cn:9090/live/CWJD.m3u8?t=Q3ZTI5YWVmMmUwM==&d=7e29aef2e03907f&pid=&cid=20&u=freeuser&l=001&sid=My5f5evM7A+JM7kBEt7zRg==&r=20240116195900&e=20240117195900&nc=5juVZbdBPOgB&a=7&v=2&hlsSessionID=7114844658832085543&srchost=172.16.22.158:8060&gid=1cTuE8i8Z%2F6MoBf3Sw1THw%3D%3D
-美国中文电视台,https://cdnts.sinovision.net/livestream.m3u8
 央视超清,#genre#
 CCTV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/1/index.m3u8?fmt=ts2hls
 CCTV1,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225726/12/index.m3u8?fmt=ts2hls
@@ -9638,6 +9637,8 @@ BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m
 大悲忏法会2,https://www.fojiao.live/video/sv/3805b949-1866a12c8a3/3805b949-1866a12c8a3.mp4
 大悲忏法会3,https://www.fojiao.live/video/sv/41db97ef-189f6e540c9/41db97ef-189f6e540c9.mp4
 🚀,#genre#
+🚀美国中文电视台,https://cdnts.sinovision.net/livestream.m3u8
+
 🚀澳视澳门,http://61.244.22.5/ch1/ch1.live/index.m3u8
 🚀澳视澳门,http://61.244.22.5/ch1/ch1.live/playelist.m3u8
 🚀澳视卫星,http://61.244.22.5/ch3/ch3.live/index.m3u8
