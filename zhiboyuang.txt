@@ -3192,6 +3192,26 @@ CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 吴江新闻综合,https://30515.hlsplay.aodianyun.com/lms_30515/tv_channel_239.m3u8?auth_key=4849225473-0-0-ccc3233d52ea78642c7045805f46ea58&extra_key=kuPfWJHmelFzV3-zoreYDOH4OVvUscNtgFUPukN0LjrE7j9GbJe-1SiVIo_invs13HOTHPShIbZWuurqH8qWSk1Ouqm4Z10UlHpsUzS1j4nZoIRkEzTmKDOrVq3vGwbvmvC6qDLIKmmLHfFxL7WJeMpZZlN8MDPUoCW9CYoMIW0
 濮阳综合,http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_2480.m3u8?auth_key=4830532265-0-0-a23211dae85304b5f753cb511162a9df
 濮阳公共,http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_3017.m3u8?auth_key=4830532402-0-0-8ddf5282fcd1a9f34372f9f57ce53ec1
+👿
+
+
+
+
+
+
+
+
+大连,#genre#
+大连新闻综合,http://live.dltv.cn/tcb3IB5/500/k47tzb0.m3u8
+大连生活频道,http://live.dltv.cn/JzcFkF4/500/n44Jzc0.m3u8
+大连文体频道,http://live.dltv.cn/hxT7Fc3/500/34olzT0.m3u8
+大连i8购物,http://live.dltv.cn/P6msbvE/800/l36Pzm0.m3u8
+大连新闻综合广播,http://live.dltv.cn/48J7wWZ/100/08rkzJ0.m3u8
+大连老友之声广播,http://live.dltv.cn/B3kHIHk/100/o73Bzk0.m3u8
+大连体育广播,http://live.dltv.cn/ty2ALdp/100/v3wtz20.m3u8
+大连交通广播,http://live.dltv.cn/n1xc68c/100/55mnzx0.m3u8
+大连少儿广播,http://live.dltv.cn/PYjk7SQ/100/35oPzj0.m3u8
+大连都市广播,http://live.dltv.cn/ogOu6vA/100/i29ozO0.m3u8
 
 广东,#genre#
 广东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
