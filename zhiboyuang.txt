@@ -3194,8 +3194,9 @@ CETV-4,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001348/index.m3
 濮阳公共,http://49368.hlsplay.aodianyun.com/tv_radio_49368/tv_channel_3017.m3u8?auth_key=4830532402-0-0-8ddf5282fcd1a9f34372f9f57ce53ec1
 
 广东,#genre#
-广东卫视,http://glive.grtn.cn/live/lizhi.m3u8
+广东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
+广东卫视网络,http://glive.grtn.cn/live/lizhi.m3u8
 广东文化频道,https://glive.grtn.cn/live/wenhua_test0203.m3u8
 广东生活频道,http://glive.grtn.cn/live/life.m3u8
 广东纪录片频道,http://glive.grtn.cn/live/jilupian.m3u8
