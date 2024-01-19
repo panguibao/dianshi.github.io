@@ -4915,53 +4915,6 @@ l江苏经典流行音乐广播,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/w
 金砖俄语,https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8
 金砖葡萄牙语,https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 👿
-
-
-春晚倒序,#genre#
-2023兔,https://vkvd94.mycdn.me/?expires=1705590647266&srcIp=43.249.50.164&pr=40&srcAg=CHROME_ANDROID&ms=185.226.53.138&type=3&sig=vR2w-Rw-6JM&ct=0&urls=185.226.52.147&clientType=14&appId=512000384397&zs=43&id=5937094658615
-2022虎,https://vkvd21.mycdn.me/?srcIp=43.249.50.164&pr=40&expires=1705790571107&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.152&type=3&sig=Bq3AhOjbNMg&ct=0&urls=185.226.53.201&clientType=14&appId=512000384397&zs=43&id=5937036724791
-2021牛,https://vkvd147.mycdn.me/?srcIp=43.249.50.167&pr=40&expires=1705763816058&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.149&type=3&sig=EZHmCV12qLw&ct=0&urls=45.136.20.156&clientType=14&appId=512000384397&zs=43&id=5936929245751
-2020鼠,https://vkvd457.mycdn.me/?srcIp=43.249.50.164&pr=40&expires=1705761550574&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.202&type=3&sig=Z-g2i_zcyFM&ct=0&urls=185.226.52.198&clientType=14&appId=512000384397&zs=43&id=5936870722103
-2019猪,https://vkvd126.mycdn.me/?srcIp=43.249.50.167&pr=40&expires=1705761399470&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.170&type=3&sig=7RXTrUyxSks&ct=0&urls=185.226.52.158&clientType=14&appId=512000384397&zs=43&id=5936791030327
-2018狗,https://vkvd125.mycdn.me/?srcIp=43.249.50.167&pr=40&expires=1705746738243&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.169&type=4&sig=cyXPYv6lakY&ct=27&urls=45.136.21.197&clientType=14&appId=512000384397&zs=43&id=5936320743991
-2017鸡,https://vkvd212.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705790789576&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.203&type=3&sig=0xB-g7cG63I&ct=0&urls=185.226.52.185&clientType=14&appId=512000384397&zs=43&id=5937256794679
-2016猴,https://vkvd470.mycdn.me/?expires=1705462716364&srcIp=117.182.180.132&pr=40&srcAg=CHROME_ANDROID&ms=185.226.53.214&type=4&sig=gqW6EjRdIG8&ct=27&urls=45.136.21.146&clientType=14&appId=512000384397&zs=43&id=5931759241783
-2015羊,https://vkvd87.mycdn.me/?expires=1705462567198&srcIp=117.182.180.132&pr=40&srcAg=CHROME_ANDROID&ms=45.136.22.177&type=4&sig=0r2Hz7bGMss&ct=27&urls=185.226.52.210&clientType=14&appId=512000384397&zs=43&id=5931756096055
-2014马,https://vkvd182.mycdn.me/?srcIp=43.249.50.164&pr=40&expires=1705744602606&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.187&type=4&sig=n7bV-aDussk&ct=27&urls=45.136.20.177&clientType=14&appId=512000384397&zs=43&id=5936283126327
-2013蛇,https://vkvd109.mycdn.me/?srcIp=43.249.50.167&pr=40&expires=1705743593121&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.153&type=4&sig=Jt8iHSA65uU&ct=27&urls=45.136.21.155&clientType=14&appId=512000384397&zs=43&id=5936273885751
-2012龙,https://vkvd253.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705723496413&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.169&type=2&sig=rf4gZoJDcTc&ct=0&urls=45.136.21.200&clientType=14&appId=512000384397&zs=43&id=5931756292663
-2011兔,https://vkvd438.mycdn.me/?expires=1705543078532&srcIp=43.249.50.164&pr=40&srcAg=CHROME_ANDROID&ms=45.136.21.159&type=4&sig=dSm3q5PDF8k&ct=27&urls=45.136.20.151&clientType=14&appId=512000384397&zs=43&id=5936264186423
-2010虎,https://vkvd231.mycdn.me/?srcIp=117.182.180.132&pr=40&expires=1705742418964&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.144&type=4&sig=NqOkKJFhhXQ&ct=27&urls=185.226.53.217&clientType=14&appId=512000384397&zs=43&id=5936256256567
-2009牛,https://vkvd41.mycdn.me/?expires=1705523420237&srcIp=43.249.50.165&pr=40&srcAg=CHROME_ANDROID&ms=185.226.52.172&type=2&sig=iXfrx93Qp5Y&ct=0&urls=45.136.22.204&clientType=14&appId=512000384397&zs=43&id=5886089431607
-2008鼠,https://vkvd183.mycdn.me/?expires=1705523290087&srcIp=43.249.50.165&pr=40&srcAg=CHROME_ANDROID&ms=185.226.52.188&type=2&sig=R5QHSPKEey4&ct=0&urls=45.136.21.160&clientType=14&appId=512000384397&zs=43&id=5886061447735
-2007猪,https://vkvd12.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705723200988&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.143&type=2&sig=2Mfd5Nko0xA&ct=0&urls=45.136.20.176&clientType=14&appId=512000384397&zs=43&id=5886036806199
-"2006狗,https://vkvd214.mycdn.me/?expires=1705523136440&srcIp=43.249.50.165&pr=40&srcAg=CHROME_ANDROID&ms=45.136.22.203&type=2&sig=CiQ2eRFldng&ct=0&urls=45.136.21.197&clientType=14&appId=512000384397&zs=43&id=5886010329655	"
-"2005鸡,https://vkvd113.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705723063324&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.157&type=2&sig=5hUm-MloL-U&ct=0&urls=45.136.22.188&clientType=14&appId=512000384397&zs=43&id=5885993749047	"
-"2004猴,https://vkvd210.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705723011163&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.201&type=2&sig=Ymhjd_HnpeY&ct=0&urls=185.226.52.167&clientType=14&appId=512000384397&zs=43&id=5885966354999	"
-"2003羊,https://vkvd448.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705722944633&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.163&type=2&sig=NjVy7wB7BE4&ct=0&urls=185.226.53.140&clientType=14&appId=512000384397&zs=43&id=5885947611703	"
-"2002马,https://vkvd182.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705722893524&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.187&type=2&sig=G00A7FxQ-NA&ct=0&urls=45.136.22.151&clientType=14&appId=512000384397&zs=43&id=5885926902327	"
-"2002东方红时空,https://vkvd259.mycdn.me/?expires=1705547014775&srcIp=43.249.50.163&pr=40&srcAg=CHROME_ANDROID&ms=45.136.20.180&type=0&sig=cr__N99d0rI&ct=0&urls=45.136.21.195&clientType=14&appId=512000384397&zs=43&id=5936347417143	"
-"2001蛇,https://vkvd258.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705722829089&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.179&type=2&sig=rNecfEoXX0Q&ct=0&urls=45.136.21.204&clientType=14&appId=512000384397&zs=43&id=5885906651703	"
-"2000龙,https://vkvd186.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705722750192&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.186&type=2&sig=qGT2ye9-C5Y&ct=0&urls=185.226.52.158&clientType=14&appId=512000384397&zs=43&id=5885879454263	"
-"1999兔,https://vkvd123.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705722660759&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.167&type=2&sig=MWhWRIBYkmk&ct=0&urls=45.136.21.140&clientType=14&appId=512000384397&zs=43&id=5885861825079	"
-"1998虎,https://vkvd225.mycdn.me/?expires=1705522595264&srcIp=43.249.50.164&pr=40&srcAg=CHROME_ANDROID&ms=185.226.52.204&type=2&sig=1eTFCT3WtUM&ct=0&urls=185.226.53.139&clientType=14&appId=512000384397&zs=43&id=5885843409463	"
-"1997牛,https://vkvd113.mycdn.me/?expires=1705522544450&srcIp=43.249.50.164&pr=40&srcAg=CHROME_ANDROID&ms=185.226.53.157&type=2&sig=yAmyqhsnem8&ct=0&urls=45.136.21.205&clientType=14&appId=512000384397&zs=43&id=5885826566711	"
-"1996鼠,https://vkvd192.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705722440846&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.199&type=2&sig=ZRv-hc91MyU&ct=0&urls=45.136.21.163&clientType=14&appId=512000384397&zs=43&id=5885792029239	"
-"1995猪,https://vkvd436.mycdn.me/?expires=1705541866372&srcIp=117.182.180.132&pr=40&srcAg=CHROME_ANDROID&ms=45.136.21.166&type=4&sig=cMaEW64DXOU&ct=27&urls=45.136.20.156&clientType=14&appId=512000384397&zs=43&id=5936248326711	"
-"1994狗,https://vkvd251.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705722391517&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.168&type=2&sig=_j3IR_uczzI&ct=0&urls=185.226.53.171&clientType=14&appId=512000384397&zs=43&id=5885731015223	"
-"1993鸡,https://vkvd50.mycdn.me/?expires=1705522332911&srcIp=43.249.50.165&pr=40&srcAg=CHROME_ANDROID&ms=45.136.22.140&type=2&sig=XwK_xWZKAXA&ct=0&urls=185.226.53.170&clientType=14&appId=512000384397&zs=43&id=5885700868663	"
-"1992猴,https://vkvd12.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705722217178&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.143&type=2&sig=7dF0RtniBLU&ct=0&urls=45.136.20.160&clientType=14&appId=512000384397&zs=43&id=5885681470007	"
-"1991羊,https://vkvd466.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705722167854&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.208&type=2&sig=An5efAd_ugg&ct=0&urls=45.136.21.138&clientType=14&appId=512000384397&zs=43&id=5885649029687	"
-"1990马,https://vkvd190.mycdn.me/?expires=1705522080723&srcIp=43.249.50.165&pr=40&srcAg=CHROME_ANDROID&ms=185.226.53.190&type=2&sig=OTaK-iQNArw&ct=0&urls=45.136.21.132&clientType=14&appId=512000384397&zs=43&id=5885605710391	"
-"1989蛇,https://vkvd95.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705721801244&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.139&type=2&sig=j0o4TKLJwyg&ct=0&urls=45.136.22.163&clientType=14&appId=512000384397&zs=43&id=5885594503735	"
-"1988龙,https://vkvd202.mycdn.me/?expires=1705521767718&srcIp=43.249.50.165&pr=40&srcAg=CHROME_ANDROID&ms=45.136.21.201&type=2&sig=E-E-hH6UM98&ct=0&urls=45.136.22.177&clientType=14&appId=512000384397&zs=43&id=5885578709559	"
-1987兔,https://vkvd485.mycdn.me/?expires=1705546932704&srcIp=43.249.50.164&pr=40&srcAg=CHROME_ANDROID&ms=45.136.22.157&type=2&sig=idgt-KxZqYQ&ct=0&urls=45.136.21.166&clientType=14&appId=512000384397&zs=43&id=5936246295095
-"1987西游记,https://vkvd260.mycdn.me/?expires=1705541583843&srcIp=117.182.180.132&pr=40&srcAg=CHROME_ANDROID&ms=45.136.20.181&type=1&sig=JehhI9lKtoY&ct=0&urls=185.226.52.210&clientType=14&appId=512000384397&zs=43&id=5936248457783	"
-1986虎,https://vkvd64.mycdn.me/?srcIp=43.249.50.165&pr=40&expires=1705721716325&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.154&type=2&sig=rn_tLsIynEM&ct=0&urls=45.136.21.143&clientType=14&appId=512000384397&zs=43&id=5884885338679
-1985牛,https://vkvd230.mycdn.me/?expires=1705521569782&srcIp=117.182.180.132&pr=40&srcAg=CHROME_ANDROID&ms=45.136.20.143&type=2&sig=LrEUA3ejaJk&ct=0&urls=45.136.21.142&clientType=14&appId=512000384397&zs=43&id=5884874918455
-1984鼠,https://vkvd16.mycdn.me/?srcIp=156.59.0.30&pr=40&expires=1705720660551&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.147&type=2&sig=zpADQ-NGW_0&ct=0&urls=45.136.21.134&clientType=14&appId=512000384397&id=5884862859831
-1983猪,https://vkvd94.mycdn.me/?expires=1705520474646&srcIp=156.59.197.234&pr=40&srcAg=CHROME_ANDROID&ms=185.226.53.138&type=2&sig=2ZkwCqb4u1w&ct=0&urls=45.136.20.158&clientType=14&appId=512000384397&id=5884848245303
-
 中央央视1,#genre#
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
