@@ -7090,6 +7090,10 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 画皮,https://vkvd238.mycdn.me/?srcIp=43.249.50.170&pr=40&expires=1705553041172&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.20.151&type=5&sig=BmWuNg2bF5s&ct=0&urls=185.226.53.162&clientType=14&appId=512000384397&zs=43&id=5925352180279
 未来的底片,https://vkvd19.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705553758413&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.52.150&type=5&sig=BXUlrgCguS8&ct=0&urls=45.136.20.205&clientType=14&appId=512000384397&zs=43&id=5925353622071
 🈲歌,#genre#
+
+
+
+
 玻璃心,https://vkvd46.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705558386559&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.22.136&type=5&sig=ima6-vRcXYI&ct=0&urls=185.226.53.140&clientType=14&appId=512000384397&zs=43&id=5925675797047
 玻璃心制作花絮,https://vkvd194.mycdn.me/?expires=1705358542537&srcIp=117.182.181.91&pr=40&srcAg=CHROME_ANDROID&ms=45.136.22.201&type=4&sig=WslKg59Tc5c&ct=27&urls=185.226.52.170&clientType=14&appId=512000384397&zs=43&id=5925685955127
 鬼島,https://vkvd457.mycdn.me/?expires=1705359199341&srcIp=117.182.181.91&pr=40&srcAg=CHROME_ANDROID&ms=45.136.20.202&type=5&sig=72hPN_Nq_gM&ct=0&urls=45.136.21.176&clientType=14&appId=512000384397&zs=43&id=5925689231927
@@ -7107,6 +7111,10 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 大国民,https://vkvd198.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559703604&srcAg=CHROME_ANDROID&fromCache=1&ms=45.136.21.197&type=2&sig=3_CI-VRYW0U&ct=0&urls=185.226.53.216&clientType=14&appId=512000384397&zs=43&id=5925701421623
 煎熬,https://vkvd186.mycdn.me/?srcIp=117.182.181.91&pr=40&expires=1705559733931&srcAg=CHROME_ANDROID&fromCache=1&ms=185.226.53.186&type=2&sig=T49mgLxL324&ct=0&urls=45.136.21.148&clientType=14&appId=512000384397&zs=43&id=5925701945911
 香港,#genre#
+
+
+
+
 翡翠台,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
 翡翠台,https://epg.pw/stream/fe02817d95c6d58f41e1ea8208b5a8c9462bf525b153819b0c3918406127925a.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&wsIPSercert=8de23d0849e78e3b16ec92a809235421&wsMonitor=0
@@ -7124,6 +7132,11 @@ CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 澳亞衛視,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 港台電視32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream3/streamPlaylist.m3u8
 港澳台加速,#genre#
+
+
+
+
+
 TVBS,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
@@ -7388,7 +7401,26 @@ IHOT爱赛车,http://[2409:8087:7001:20:1000::95]:6610/000000001000/600000000600
 IHOT爱体育,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000290630&livemode=1&stbId=3
 IHOT爱玩具,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000220630&livemode=1&stbId=3
 IHOT爱喜剧,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000010630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000010630&livemode=1&stbId=3
-IHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+IHOT爱院线,http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000030630/index.m3u8?channel-
+id=wasusyt&Contentid=6000000006000030630&livemode=1&stbId=3
+山东电视台,#genre#
+山东卫视,http://livealone.iqilu.com/iqilu/sdtvhjOF03kn.m3u8
+山东齐鲁,http://livealone.iqilu.com/iqilu/qlpdhjOF03kn.m3u8
+山东文旅,http://livealone.iqilu.com/iqilu/yspdhjOF03kn.m3u8
+山东综艺,http://livealone.iqilu.com/iqilu/zypdhjOF03kn.m3u8
+山东生活,http://livealone.iqilu.com/iqilu/shpdhjOF03kn.m3u8
+山东新闻,http://livealone.iqilu.com/iqilu/ggpdhjOF03kn.m3u8
+山东农科,http://livealone.iqilu.com/iqilu/nkpdhjOF03kn.m3u8
+山东体育,http://livealone.iqilu.com/iqilu/typdhjOF03kn.m3u8
+山东少儿,http://livealone.iqilu.com/iqilu/sepdhjOF03kn.m3u8
+山东综合广播,http://audiolive302.iqilu.com/sdradioXinwen/sdradio01/playlist.m3u8
+山东经济广播,http://audiolive302.iqilu.com/sdradioJingji/sdradio02/playlist.m3u8
+山东文艺广播,http://audiolive302.iqilu.com/sdradioWenyi/sdradio03/playlist.m3u8
+山东经典音乐广播,http://audiolive302.iqilu.com/sdradioShenghuo/sdradio04/playlist.m3u8
+山东交通广播,http://audiolive302.iqilu.com/sdradioJiaotong/sdradio05/playlist.m3u8
+山东乡村广播,http://audiolive302.iqilu.com/sdradioXiangcun/sdradio06/playlist.m3u8
+山东音乐广播,http://audiolive302.iqilu.com/sdradioYinyue/sdradio07/playlist.m3u8
+山东体育休闲广播,http://audiolive302.iqilu.com/sdradioTiyu/sdradio08/playlist.m3u8
 动画,#genre#
 央视少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001240/index.m3u8
 卡酷少儿,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001245/index.m3u8
