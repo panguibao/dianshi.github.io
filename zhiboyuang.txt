@@ -4888,8 +4888,6 @@ l江苏经典流行音乐广播,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/w
 江苏健康广播,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/wh7f454c46tw359865952_96153757/ott.mobaibox.com/PLTV/3/224/3221227952/index.m3u8?icpid=3&RTS=1674380475&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 连云港公共 ,http://[2409:8087:2001:20:2900:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221227819/index.m3u8
 上海,#genre#
-东方卫视,http://180.158.145.181:9901/tsfile/live/0107_1.m3u8?key=txiptv
-东方卫视,http://180.101.226.42:9901/tsfile/live/0107_1.m3u8?key=txiptv
 东方卫视,http://221.233.192.152:9901/tsfile/live/0107_1.m3u8?key=txiptv
 东方卫视,http://171.12.189.252:9901/tsfile/live/0107_1.m3u8?key=txiptv
 东方卫视,http://113.120.108.129:9901/tsfile/live/0107_1.m3u8?key=txiptv
