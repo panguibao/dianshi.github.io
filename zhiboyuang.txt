@@ -9261,7 +9261,6 @@ BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m
 大悲忏法会1,https://www.fojiao.live/video/sv/b72864b-178e33e4792/b72864b-178e33e4792.mp4
 大悲忏法会2,https://www.fojiao.live/video/sv/3805b949-1866a12c8a3/3805b949-1866a12c8a3.mp4
 大悲忏法会3,https://www.fojiao.live/video/sv/41db97ef-189f6e540c9/41db97ef-189f6e540c9.
- 电视安装教程,#genre#
-无需U盘电视软件,https://upos-sz-mirrorali.bilivideo.com/upgcxcode/44/34/1416253444/1416253444-1-16.mp4?e=ig8euxZM2rNcNbRVhwdVhwdlhWdVhwdVhoNvNC8BqJIzNbfq9rVEuxTEnE8L5F6VnEsSTx0vkX8fqJeYTj_lta53NCM=&uipk=5&nbs=1&deadline=1705988319&gen=playurlv2&os=alibv&oi=0&trid=789bbbf95d384d0a9e07d9ad33293074h&mid=0&platform=html5&upsig=43847b4227c294545e896a699fc30587&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&bvc=vod&nettype=0&f=h_0_0&bw=50957&logo=80000000
+ 
 _9527,#genre#
 3D肉蒲团之极乐宝鉴国语,https://vip.lz-cdn.com/20220917/33091_abc5295d/1200k/hls/mixed.m3u8
