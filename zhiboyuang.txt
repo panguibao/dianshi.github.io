@@ -42,7 +42,6 @@
 凤凰中文,https://edge1.laotv.la/live/PhxChinese/sc-gaFECQ/v0_index.m3u8
 凤凰中文,https://edge1.laotv.la/live/PhxChinese/index.m3u8
 TVB无线新闻台,https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1706005025~exp=1706091425~acl=/__cl/slocalr2625/__c/ott_I-NEWS_h264/__op/bks/__f/*~hmac=ed016a10b910ebf562ff229ac505f4a7e55c69bf717727ac9562980dd8245eb9&p=3139
-TVB财经·体育·资讯台,https://prd-vcache.edge-global.akamai.tvb.com/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/index.m3u8?hdnea=ip=0.0.0.0~st=1706005535~exp=1706091935~acl=/__cl/slocalr2526/__c/ott_I-FINA_h264/__op/bks/__f/*~hmac=10bcfa3c8d4311b47d2a33bb075af0502b836b69153d918fc999970c17b947e2&p=4035
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 RTHK31,https://RTHKtv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
 RTHK32,https://RTHKtv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
