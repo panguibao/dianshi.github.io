@@ -3287,25 +3287,6 @@ BRTV新闻,http://live.funhillrm.com/5/sd/live.m3u8
 湖南电视剧,http://zteres.sn.chinamobile.com:6060/000000001000/8765482907954673867/index.m3u8?livemode=1&stbId=test&channel-id=hnbblive&Contentid=8765482907954673867
 湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
 
-
-
-
-
-
-
-
-大连,#genre#
-大连新闻综合,http://live.dltv.cn/tcb3IB5/500/k47tzb0.m3u8
-大连生活频道,http://live.dltv.cn/JzcFkF4/500/n44Jzc0.m3u8
-大连文体频道,http://live.dltv.cn/hxT7Fc3/500/34olzT0.m3u8
-大连i8购物,http://live.dltv.cn/P6msbvE/800/l36Pzm0.m3u8
-大连新闻综合广播,http://live.dltv.cn/48J7wWZ/100/08rkzJ0.m3u8
-大连老友之声广播,http://live.dltv.cn/B3kHIHk/100/o73Bzk0.m3u8
-大连体育广播,http://live.dltv.cn/ty2ALdp/100/v3wtz20.m3u8
-大连交通广播,http://live.dltv.cn/n1xc68c/100/55mnzx0.m3u8
-大连少儿广播,http://live.dltv.cn/PYjk7SQ/100/35oPzj0.m3u8
-大连都市广播,http://live.dltv.cn/ogOu6vA/100/i29ozO0.m3u8
-
 广东,#genre#
 广东卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001032/index.m3u8
 广东卫视,http://php.jdshipin.com:8880/chudian.php?id=gdws
