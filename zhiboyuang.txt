@@ -1,5 +1,6 @@
 🌏,#genre#
-2023春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+2023春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
+环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
 欧洲华文电视台1,http://vvlive.eztv.vip/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 欧洲华文电视台2,http://vvlive.eztv.vip/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
 欧洲华文电视台6,http://vvlive.eztv.vip/huawen6/huawen6.m3u8?auth_key=1662611110-0-0-cf20c4fcf669736034b6ceac0d01d403
