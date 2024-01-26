@@ -3158,6 +3158,25 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 
+重庆,#genre#
+重庆卫视,http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
+重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
+重庆卫视,https://sjlivecdn9.cbg.cn/202401270700/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆卫视,http://39.134.65.194/PLTV/88888888/224/3221225963/1.m3u8
+重庆卫视,http://39.134.65.211/PLTV/88888888/224/3221225963/1.m3u8
+重庆卫视,http://39.134.65.209/PLTV/88888888/224/3221225963/1.m3u8
+重庆卫视,http://39.134.65.200/PLTV/88888888/224/3221225963/1.m3u8
+重庆卫视,http://39.134.64.179:6610/PLTV/88888888/224/3221226409/index.m3u8
+重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/v04cx3.m3u8
+重庆移动,https://qxlmlive9.cbg.cn/app_2/ls_58.stream/chunklist.m3u8
+重庆移动,https://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
+福建,#genre#
+福建卫视,http://39.134.67.108/PLTV/88888888/224/3221226038/1.m3u8
+福建综合,http://fjnhdb.chinashadt.com:2036/live/stream:10003.stream/chunklist.m3u8
+福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
+厦门卫视,https://live1.kxm.xmtv.cn/xmtjsws/YyHQqp/live.m3u8
+厦门二套,https://live1.kxm.xmtv.cn/xmtjs2/XMLDrw/live.m3u8
+厦门移动,https://live1b.kxm.xmtv.cn/xmyidongbf_1b/tvzb/live.m3u8
 
 
 安徽,#genre#
@@ -3257,6 +3276,49 @@ BRTV纪实,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 北京科教,http://[2409:8087:2001:20:2800:0:df6e:eb13]:80/PLTV/1/224/3221230603/1.m3u8
 北京科教,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京科教,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226232/1.m3u8
+北京卫视,http://183.204.12.42/downflv.brtvcloud.com/gagadi/djsofjs183.m3u8
+北京卫视,http://39.134.64.179:6610/PLTV/88888888/224/3221225728/index.m3u8?
+北京卫视,http://39.134.65.196/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.64.179:6610/PLTV/88888888/224/3221226450/index.m3u8?
+北京卫视,http://39.134.65.249/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.251/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.247/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.215/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.207/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.211/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.243/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.67.108/PLTV/88888888/224/3221225931/1.m3u8
+北京卫视,http://39.134.67.110/PLTV/88888888/224/3221225931/1.m3u8
+北京卫视,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225796/1.m3u8
+北京卫视,http://39.134.65.194/PLTV/88888888/224/3221225678/1.m3u8
+北京卫视,http://39.134.65.209/PLTV/88888888/224/3221225678/1.m3u8
+北京文艺,https://iptv.luas.edu.cn/liverespath/d733639566a36d59f45cfa348b5807b7d94b02a1/af11ac33da-0-0-95a4237ea18f48f6c726ac107577684a/index.m3u8
+北京文艺,https://iptv.luas.edu.cn/liverespath/df76b690ed09ed3949eb8579ea5a7728e6cbd03f/e9bd0caf7e-0-0-fb3d4838c4cd760a0b220c133efc950c/index.m3u8
+北京纪实科教8K,http://182.247.251.166/downflv.brtvcloud.com/8klive/8kliveok.m3u8
+北京纪实科教,http://58.216.17.145/downflv.brtvcloud.com/rcr55/miih88.m3u8
+北京纪实科教,http://39.134.65.245/PLTV/88888888/224/3221225670/1.m3u8
+北京纪实科教,http://39.134.65.239/PLTV/88888888/224/3221225670/1.m3u8
+北京纪实科教,http://39.134.64.179:6610/PLTV/88888888/224/3221225729/index.m3u8?
+北京纪实科教,http://39.134.65.196/PLTV/88888888/224/3221225670/1.m3u8
+北京纪实科教,http://39.134.65.198/PLTV/88888888/224/3221225670/1.m3u8
+北京影视,http://183.204.13.97/downflv.brtvcloud.com/hyyhuyu/drtctv.m3u8
+北京财经,http://183.204.12.159/downflv.brtvcloud.com/crry89/mouibyu.m3u8
+北京财经,https://iptv.luas.edu.cn/liverespath/da4b2d170d47e48cfd4dcd6db27b7088a876aa30/0f1578abc0-0-0-1e8c2866ea263ce38d22fc27df0972f3/index.m3u8
+北京体育休闲,https://iptv.luas.edu.cn/liverespath/f837576f59a881e17cdd29040feea764e8c6dfd0/427d6abd0a-0-0-d1464e120e36e390dfbb1cdb0c24e697/index.m3u8
+北京体育休闲,https://iptv.luas.edu.cn/liverespath/9535e4def9ec36aaf65f8f87a8af664b81f4bf23/9ce74bcfe7-0-0-2c18af5563e8c9c27f4ad730e1d2440f/index.m3u8
+北京生活,http://223.111.191.152/downflv.brtvcloud.com/ygdduy/jmnetfg.m3u8
+北京新闻,http://182.247.251.164/downflv.brtvcloud.com/waezcdr/bncdte7.m3u8
+北京新闻,https://iptv.luas.edu.cn/liverespath/b19542a8760e5fc0346098925cbafdd9e23395f4/5506070e95-0-0-aaccfb72c12bffc38dd17fd59b4460bc/index.m3u8
+北京kaku少儿,http://39.134.67.108/PLTV/88888888/224/3221225562/1.m3u8
+北京kaku少儿,http://42.236.89.100/downflv.brtvcloud.com/jfboirr/ijlbmlsi394.m3u8
+北京kaku少儿,http://39.134.64.179:6610/PLTV/88888888/224/3221225654/index.m3u8?
+北京kaku少儿,http://39.134.65.196/PLTV/88888888/224/3221225562/1.m3u8
+北京kaku少儿,http://39.134.65.200/PLTV/88888888/224/3221225562/1.m3u8
+北京kaku少儿,http://39.134.65.198/PLTV/88888888/224/3221225562/1.m3u8
+北京kaku少儿,http://39.134.65.194/PLTV/88888888/224/3221225562/1.m3u8
+北京kaku少儿,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
+北京kaku少儿,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225743/1.m3u8
+爱家购物,http://tvlive.siqiangame.com/ugotvlive/aijiatv.m3u8?auth_key=1860547259-0-0-77940e9d27746d1ae88f7d31e81191d0
 石景山有线,http://live.sjsrm.com/bjsjs/sd/live.m3u8?zbeid
 房山无线,http://live.funhillrm.com/2/sd/live.m3u8?zbeid
 北京财经,,https://wstvcpudali.v.myalicdn.com/wstvcpud/udrmbtv5_1/index.m3u8?adapt=0&BR=audio	
