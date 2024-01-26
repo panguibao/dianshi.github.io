@@ -9333,6 +9333,7 @@ BBS,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1403706733.m
 大悲忏法会1,https://www.fojiao.live/video/sv/b72864b-178e33e4792/b72864b-178e33e4792.mp4
 大悲忏法会2,https://www.fojiao.live/video/sv/3805b949-1866a12c8a3/3805b949-1866a12c8a3.mp4
 大悲忏法会3,https://www.fojiao.live/video/sv/41db97ef-189f6e540c9/41db97ef-189f6e540c9.
- 
+电视安装教程,#genre#
+无需U盘，电视第三方软件安装教程,http://pan.whiteyun.com/view.php/5a81cf3fd076fa34d7659d7151b3e07c.mp4
 _9527,#genre#
 3D肉蒲团之极乐宝鉴国语,https://vip.lz-cdn.com/20220917/33091_abc5295d/1200k/hls/mixed.m3u8
