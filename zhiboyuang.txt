@@ -3167,16 +3167,13 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 重庆卫视,http://39.134.65.209/PLTV/88888888/224/3221225963/1.m3u8
 重庆卫视,http://39.134.65.200/PLTV/88888888/224/3221225963/1.m3u8
 重庆卫视,http://39.134.64.179:6610/PLTV/88888888/224/3221226409/index.m3u8
-重庆新闻,https://cqonsitecdn.cbgcloud.com/qf6jl2/v04cx3.m3u8
 重庆移动,https://qxlmlive9.cbg.cn/app_2/ls_58.stream/chunklist.m3u8
 重庆移动,https://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
 福建,#genre#
 福建卫视,http://39.134.67.108/PLTV/88888888/224/3221226038/1.m3u8
 福建综合,http://fjnhdb.chinashadt.com:2036/live/stream:10003.stream/chunklist.m3u8
 福州综合,http://live.zohi.tv/video/s10001-fztv-1/index.m3u8
-厦门卫视,https://live1.kxm.xmtv.cn/xmtjsws/YyHQqp/live.m3u8
-厦门二套,https://live1.kxm.xmtv.cn/xmtjs2/XMLDrw/live.m3u8
-厦门移动,https://live1b.kxm.xmtv.cn/xmyidongbf_1b/tvzb/live.m3u8
+门移动,https://live1b.kxm.xmtv.cn/xmyidongbf_1b/tvzb/live.m3u8
 
 
 安徽,#genre#
