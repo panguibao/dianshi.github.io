@@ -3159,6 +3159,8 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 
 
 重庆,#genre#
+重庆卫视,https://sjlivecdn.cbg.cn/202401271336/b6ed9453e3e4194d6b953c61f60eb2a4/app_2/_definst_/ls_2.stream/chunklist.m3u8
+重庆新闻,https://sjlivecdn.cbg.cn/202401271337/d483646a362caa38d97c72e38256374b/app_2/_definst_/ls_3.stream/chunklist.m3u8
 重庆卫视,http://39.134.67.108/PLTV/88888888/224/3221225963/1.m3u8
 重庆卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226202/1.m3u8
 重庆卫视,https://sjlivecdn9.cbg.cn/202401270700/app_2/_definst_/ls_2.stream/chunklist.m3u8
@@ -3169,6 +3171,11 @@ CGTN阿语,https://livear.cgtn.com/1000a/prog_index.m3u8
 重庆卫视,http://39.134.64.179:6610/PLTV/88888888/224/3221226409/index.m3u8
 重庆移动,https://qxlmlive9.cbg.cn/app_2/ls_58.stream/chunklist.m3u8
 重庆移动,https://qxlmlive9.cbg.cn/app_2/ls_57.stream/chunklist.m3u8
+重庆音乐广播,https://lhttp.qingting.fm/live/647/64k.mp3?app_id=web
+重庆新闻广播,https://lhttp.qingting.fm/live/1498/64k.mp3?app_id=web
+重庆私家车广播,https://lhttp.qingting.fm/live/1502/64k.mp3?app_id=web
+重庆交通广播,https://lhttp.qingting.fm/live/1500/64k.mp3?app_id=web
+重庆经济广播,https://lhttp.qingting.fm/live/1499/64k.mp3?app_id=web
 福建,#genre#
 福建卫视,http://39.134.67.108/PLTV/88888888/224/3221226038/1.m3u8
 福建综合,http://fjnhdb.chinashadt.com:2036/live/stream:10003.stream/chunklist.m3u8
