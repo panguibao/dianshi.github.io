@@ -1,0 +1,316 @@
+1	QQ💰	红爆米花(HK),http://ali.hlspull.yximgs.com/live/nowbgggggt3a888221300-cfuu78258.flv
+2	QQ💰	黄爆米花(HK),http://ali.hlspull.yximgs.com/live/nowxyot3a888221300-cfuu78258.flv
+3	QQ💰	英超(HK),http://ali.hlspull.yximgs.com/live/nowyct3a888221300-cfuu78258.flv
+4	QQ💰	功夫台,http://ali.hlspull.yximgs.com/live/AsiaActiont3a888221300-cfuu78258.flv
+5	QQ💰	中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
+6	QQ💰	寰宇新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivephxehmffzuxcxzvezezyhmnzzxzzhzdhnzbnxfdzfhyxw.flv
+7	QQ💰	年代新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twliveozevdyscvbudlozlnsfzewtzudvbbzxfznzlvczdzdnzxw.flv
+8	QQ💰	东森新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivemhzttuzzcvbyzuozdzzezywefzzfbxfbxxvbzzzlzzhzsxw.flv
+9	QQ💰	中视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
+10	QQ💰	台视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivenczztzzudtzlzcvbcvntzzzsfwetzfvcbcxvdzbzfflvcztsxw.flv
+11	QQ💰	TVBS,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivezpzovdxzozfdezodszxcvlzzfvhnzlzzzobzzzsvhzchtvbs.flv
+12	QQ💰	凤凰卫视中文台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=1
+13	QQ💰	凤凰卫视资讯台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=2
+14	QQ💰	香港有线新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=3
+15	QQ💰	香港有线18台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=4
+16	QQ💰	香港有线高清603台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=5
+17	QQ💰	TVB无线新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=6
+18	QQ💰	TVB财经体育资讯台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=7
+19	QQ💰	TVB翡翠台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=8
+20	QQ💰	TVB华丽翡翠台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=9
+21	QQ💰	TVB明珠台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=10
+22	QQ💰	TVB J2,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=11
+23	QQ💰	TVB星河,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=12
+24	QQ💰	ViuTV,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=13
+25	QQ💰	ViuTV6,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=14
+26	QQ💰	NOW新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=15
+27	QQ💰	香港国际财经台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=16
+28	QQ💰	HOY TV,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=17
+29	QQ💰	HOY资讯台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=18
+30	QQ💰	港台电视31,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=19
+31	QQ💰	港台电视32,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=20
+3	QQ💰	中天新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=21
+4	QQ💰	东森新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=22
+5	QQ💰	东森财经新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=23
+6	QQ💰	寰宇新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=24
+7	QQ💰	寰宇新闻台湾台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=25
+8	QQ💰	台视新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=26
+9	QQ💰	中视新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=27
+10	QQ💰	华视新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=28
+11	QQ💰	TVBS新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=29
+12	QQ💰	三立新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=30
+13	QQ💰	三立iNEWS,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=31
+14	QQ💰	镜电视新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=32
+15	QQ💰	壹新闻,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=33
+16	QQ💰	公视新闻,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=34
+17	QQ💰	民视新闻台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=35
+18	QQ💰	民视,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=36
+19	QQ💰	台视,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=37
+20	QQ💰	中视,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=38
+21	QQ💰	华视,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=39
+22	QQ💰	TVBS HD,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=40
+23	QQ💰	TVBS欢乐台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=41
+24	QQ💰	中天亚洲台,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=42
+25	QQ💰	台视http://51.77.65.194:40078/
+26	QQ💰	亚太第一卫视,http://110.19.106.198:9981/stream/channelid/999152661?ticket=B1BCB80234BFA8C75584A88C1E29CA0CF7745FC4&profile=pass
+27	QQ💰	澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+28	QQ💰	翡翠台,http://sz.l68.fun:9000/bysid/1
+29	QQ💰	明珠台,http://sz.l68.fun:9001/bysid/2
+30	QQ💰	J2台,http://sz.l68.fun:9001/bysid/82
+31	QQ💰	無綫新聞台,http://sz.l68.fun:9001/bysid/83
+3	QQ💰	翡翠台,http://r.jdshipin.com/qClQf
+4	QQ💰	翡翠台,http://146.56.153.245:8006/bysid/1
+5	QQ💰	翡翠台,http://r.jdshipin.com/62WM7
+6	QQ💰	TVB 翡翠台http://120.238.13.198:8000/hls/21/index.m3u8
+7	QQ💰	明珠台http://120.238.13.198:8000/hls/19/index.m3u8
+8	QQ💰	凤凰卫视http://120.238.13.198:8000/hls/20/index.m3u8
+9	QQ💰	ViuTVsix,http://146.56.153.245:8006/bysid/96
+10	QQ💰	ViuTV,http://146.56.153.245:8006/bysid/99
+11	QQ💰	TVB J2,http://1.65.195.85:9981/stream/channelid/2082072924?profile=pass
+12	QQ💰	TVB News,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
+13	QQ💰	TVB Pearl,http://1.65.195.85:9981/stream/channelid/1803382046?profile=pass
+14	QQ💰	TVB FSI,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
+15	QQ💰	Channel V,http://203.80.165.14/stream/channelid/1998962087?profile=pass
+16	QQ💰	星空,http://203.80.165.14/stream/channelid/192561066?profile=pass
+17	QQ💰	EBC,http://203.80.165.14/stream/channelid/1080037984?profile=pass
+18	QQ💰	Lotus-Macau,http://203.80.165.14/stream/channelid/337227380?profile=pass
+19	QQ💰	HangMeas,http://203.80.165.14/stream/channelid/1448884111?profile=pass
+20	QQ💰	KIX,http://203.80.165.14/stream/channelid/1365041137?profile=passd/192561066?profile=pass
+21	QQ💰	星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
+22	QQ💰	翡翠台华丽,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+23	QQ💰	Celestial Movies,https://code.vthanhtivi.pw/getlink/eazie/243113/playlist.m3u8
+24	QQ💰	Celestial Classic Movies,https://code.vthanhtivi.pw/getlink/eazie/242920/playlist.m3u8
+25	QQ💰	HITS,https://code.vthanhtivi.pw/getlink/tv360/AVfivHCJsMBxzeUxGop7mw/1699926682/107/playlist.m3u8
+26	QQ💰	Thrill,https://code.vthanhtivi.pw/getlink/eazie/242921/playlist.m3u8
+27	QQ💰	TVB Satellite Jade,https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
+28	QQ💰	TVB Satellite News Channel,http://live.cooltv.top/tv/tvb.php?id=0
+29	QQ💰	TVB Satellite Finance-Sport-Info Channel,http://live.cooltv.top/tv/tvb.php?id=2
+30	QQ💰	EBC Movies,https://ctrl.laotv.la/live/DongsenMovie/index.m3u8
+31	QQ💰	EBC Foreign Movies,https://ctrl.laotv.la/live/DongsenForeignMovie/index.m3u8
+3	QQ💰	台视新闻,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156398&extension=ts&play_token=6pDQNgylDg
+4	QQ💰	台视综合,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156392&extension=ts&play_token=Ste6dPj5f9
+5	QQ💰	TVBS亚洲,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156402&extension=ts&play_token=UAAcYUkyjm
+6	QQ💰	YOYO,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156403&extension=ts&play_token=IOtTGJARgv
+7	QQ💰	天下卫视1,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156399&extension=ts&play_token=u8z6Sz30CI
+8	QQ💰	天下卫视2,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156400&extension=ts&play_token=K6gyPVXpHi
+9	QQ💰	三立国际,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156390&extension=ts
+10	QQ💰	华视,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156391&extension=ts
+11	QQ💰	东森美洲中国台,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156393&extension=ts
+12	QQ💰	东森戏剧,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156395&extension=ts
+13	QQ💰	东森财经,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156396&extension=ts
+14	QQ💰	CYY,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156389&extension=ts
+15	QQ💰	华夏电视台,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156422&extension=ts
+16	QQ💰	中国电影,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156417&extension=ts
+17	QQ💰	大湾区卫视http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156411&extension=ts
+18	QQ💰	长城精品,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156410&extension=ts
+19	QQ💰	凤凰卫视美洲,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156408&extension=ts
+20	QQ💰	凤凰资讯,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:73:45:10&stream=156407&extension=ts
+21	QQ💰	TVB娱乐新闻台mitv://generationnexxxt.com:19806/46bb3afe133d4cd8ac4b195c7f5f428c
+22	QQ💰	TVB娱乐新闻台,https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+23	QQ💰	TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+24	QQ💰	J2台,http://1.65.195.85:9981/stream/channelid/2082072924?ticket=4b3174e5f68a673f0c11bc3443bc52b1663d94f0&profile=pass
+25	QQ💰	明珠台,http://1.65.195.85:9981/stream/channelid/1803382046?ticket=81e3b97df2839ef49852fe90ddedf3533469924d&profile=pass
+26	QQ💰	环球电视台,http://zb.xzxwhcb.com:9999/hls/world.m3u8
+27	QQ💰	RTHK32,https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/stream1/streamPlaylist.m3u8
+28	QQ💰	RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
+29	QQ💰	RTHK34,https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream02/streamPlaylist.m3u8
+30	QQ💰	RTHK34,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
+31	QQ💰	EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
+3	QQ💰	EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
+4	QQ💰	EZTV6台,http://vvlive.eztv.vip:80/huawen6/huawen6.m3u8?auth_key=1660814676-0-0-4d45d97f017e545dd368719f8dd48ffe
+5	QQ💰	澳门macau,http://61.244.22.5/ch3/ch3.live/chunklist.m3u8
+6	QQ💰	澳门2,http://61.244.22.5/ch2/ch2.live/chunklist.m3u8
+7	QQ💰	凤凰中文台,mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
+8	QQ💰	民视,mitv://generationnexxxt.com:19806/7b046996e7d5417eb4a619194072bbc0
+9	QQ💰	台视,mitv://generationnexxxt.com:19806/9868c18e3c0940cd8aa003d9ae54f862
+10	QQ💰	大爱,mitv://generationnexxxt.com:19806/e89ec8c592484d88bc001e8d8a6c9e31
+11	QQ💰	中视,mitv://generationnexxxt.com:19806/27826c4ed7234c0d8759bc7fe6786a18
+12	QQ💰	霹雳台湾台,mitv://generationnexxxt.com:19806/dcdf778fe9ca4184ad6af3a911765cf0
+13	QQ💰	华视,mitv://generationnexxxt.com:19806/761bc3c0662247d18b0db4da8070b7f4
+14	QQ💰	公视,mitv://generationnexxxt.com:19806/5bc9388122b840f1abd2ff73c85049a6
+15	QQ💰	好消息,mitv://generationnexxxt.com:19806/febf2282369d409d92d68514b72fc433
+16	QQ💰	原住民电视台,mitv://generationnexxxt.com:19806/cb5b7549e3604100a605ca17c82808f5
+17	QQ💰	客家电视台,mitv://generationnexxxt.com:19806/eafabb6e7c30439b8ecd35ad40a46a96
+18	QQ💰	台视综合台,mitv://generationnexxxt.com:19806/6593a4d5000dedcb98fef0154abd184d
+19	QQ💰	探索频道,mitv://generationnexxxt.com:19806/9f2e92df32b34a569ad7e6818f4732fb
+20	QQ💰	TLC旅游生活,mitv://generationnexxxt.com:19806/621ca70412034f5eb919c1ec03679804
+21	QQ💰	动物星球,mitv://generationnexxxt.com:19806/5b41e724ea8e4e7eb92e3dac95589165
+22	QQ💰	CN卡通频道,mitv://generationnexxxt.com:19806/f4dd909eedc64e6b9736e248aedf6d61
+23	QQ💰	MOMO亲子台,mitv://generationnexxxt.com:19806/2f2d9ad70ce7410aa99f2b9fa1753dd4
+24	QQ💰	东森幼幼台,mitv://generationnexxxt.com:19806/baa16215e2224e399f6dc71eb3576ed4
+25	QQ💰	纬来综合台,mitv://generationnexxxt.com:19806/d40310ae8bba42569d3d90b4cf7d9928
+26	QQ💰	八大第一台,mitv://generationnexxxt.com:19806/270abff66f5e496fb9c100a0dbca3fe6
+27	QQ💰	八大综合台,mitv://generationnexxxt.com:19806/6c18a737c1394e59ae5072935d630f40
+28	QQ💰	三立台湾台,mitv://generationnexxxt.com:19806/ff12e8f29f9b4f61a9b766709aa498f6
+29	QQ💰	三立都会台,mitv://generationnexxxt.com:19806/7a36f98eee8e48a48ea64a1359083c8a
+30	QQ💰	东森综合台,mitv://generationnexxxt.com:19806/a05a4d8b51f54013925315261a2c6aa9
+31	QQ💰	超视,mitv://generationnexxxt.com:19806/5121f16c4b634c1683e9444aa68494b6
+3	QQ💰	中天综合台,mitv://generationnexxxt.com:19806/d6433dcd1a2a4aacb1c63a81ae8f11e6
+4	QQ💰	中天娱乐台,mitv://generationnexxxt.com:19806/6932151dd5a74b759a053f78a719fbf3
+5	QQ💰	东森戏剧台,mitv://generationnexxxt.com:19806/4fae332a68a04f3fa77a158ac1fa4bce
+6	QQ💰	八大戏剧台,mitv://generationnexxxt.com:19806/4eec82bd1e634ceab82b90e395116c83
+7	QQ💰	TVBS欢乐台,mitv://generationnexxxt.com:19806/569aec3edbbc4267bd6f829b3d495d5a
+8	QQ💰	纬来戏剧台,mitv://generationnexxxt.com:19806/69036778f8fc40729301e9e88aeee556
+9	QQ💰	高点综合台,mitv://generationnexxxt.com:19806/462775e2153243fc92adec0793c638d0
+10	QQ💰	BBC World News,mitv://generationnexxxt.com:19806/ecc7214268ee448ab42b65d9f2e2663a
+11	QQ💰	CNBC,mitv://generationnexxxt.com:19806/b642a4ce45734a7190f0acbd8cd462dd
+12	QQ💰	Bloomberg TV,mitv://generationnexxxt.com:19806/885bb543b9cb4bbeb5bcfe518fb90780
+13	QQ💰	HITS,mitv://generationnexxxt.com:19806/a65416c2039f4644aeef10da853fb928
+14	QQ💰	壹电视新闻台,mitv://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+15	QQ💰	年代新闻,mitv://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
+16	QQ💰	东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+17	QQ💰	中天新闻台,mitv://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+18	QQ💰	民视新闻台,mitv://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
+19	QQ💰	三立新闻台,mitv://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
+20	QQ💰	TVBS新闻台,mitv://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+21	QQ💰	TVBS,mitv://generationnexxxt.com:19806/9fb651a7ec2e402588a0752ba1035476
+22	QQ💰	东森财经新闻台,mitv://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
+23	QQ💰	非凡新闻台,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+24	QQ💰	MOMO综合台,mitv://generationnexxxt.com:19806/659391fc000353d298b54dbe4b486dab
+25	QQ💰	东森电影台,mitv://generationnexxxt.com:19806/08435f286ac744a0942899c551209779
+26	QQ💰	纬来电影台,mitv://generationnexxxt.com:19806/429796f5f00946fa933e400729286c7e
+27	QQ💰	龙祥电影,mitv://generationnexxxt.com:19806/78502c9b515845a7baca6a3a6ea88b8a
+28	QQ💰	HBO,mitv://generationnexxxt.com:19806/37f11d742fee447ab15f07db28095bd6
+29	QQ💰	东森洋片台,mitv://generationnexxxt.com:19806/5e8420f5477344b9b7b39d9e96162ce1
+30	QQ💰	AXN,mitv://generationnexxxt.com:19806/893f7dec641a42458f47ccfbd93525ba
+31	QQ💰	好莱坞电影台,mitv://generationnexxxt.com:19806/9862f4958472458ca2ebc718bb92a5c6
+3	QQ💰	CINEMAX,mitv://generationnexxxt.com:19806/fd7fd316ff5f4ae0a79d274a86483a4f
+4	QQ💰	纬来育乐台,mitv://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
+5	QQ💰	纬来体育台,mitv://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
+6	QQ💰	ELEVEN体育1台,mitv://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
+7	QQ💰	JET综合台,mitv://generationnexxxt.com:19806/cbd0c62dcb2a45cfa04f672fb2c49d14
+8	QQ💰	国兴卫视,mitv://generationnexxxt.com:19806/18aaee00d2af442ebb4592e15f7b2a20
+9	QQ💰	Z频道,mitv://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
+10	QQ💰	Animax,mitv://generationnexxxt.com:19806/22f75ace87a545aab39a2e4cd244bbad
+11	QQ💰	人间卫视,mitv://generationnexxxt.com:19806/6593ab070007d601991721de206b22e9
+12	QQ💰	尼克儿童频道,mitv://generationnexxxt.com:19806/879f28be19bc47df84ad3d5470be58d0
+13	QQ💰	八大娱乐台,mitv://generationnexxxt.com:19806/cea44ead76804413bd48caf76c5c2749
+14	QQ💰	三立iNEWS,mitv://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
+15	QQ💰	龙华偶像,mitv://generationnexxxt.com:19806/5b720b1e1b404f129e7009363d3035f8
+16	QQ💰	tvN,mitv://generationnexxxt.com:19806/5653c9fb655842ee99b4590ff903efe7
+17	QQ💰	France24,mitv://generationnexxxt.com:19806/72d5e1665d3e4b729ff9dbd4325e8694
+18	QQ💰	非凡商业台,mitv://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
+19	QQ💰	公视3台,mitv://generationnexxxt.com:19806/95f2ed538e044aac891abfe6a9ce6ba7
+20	QQ💰	大爱2台,mitv://generationnexxxt.com:19806/2036b83c58e344c782eb154b233c8c77
+21	QQ💰	ELTV生活英语台,mitv://generationnexxxt.com:19806/78c0f08e89a844ef89d6803bce27a827
+22	QQ💰	靖洋卡通Nice Bingo,mitv://generationnexxxt.com:19806/1279fb2d1ae14676a31b2e5b38a2cd57
+23	QQ💰	靖天卡通台,mitv://generationnexxxt.com:19806/0e27e5f319264b609ec810e126edf969
+24	QQ💰	Nick Jr.,mitv://generationnexxxt.com:19806/acebbded37714fa4a5554c025873a92c
+25	QQ💰	Mezzo Live,mitv://generationnexxxt.com:19806/1c1e90cd01934a5f917ec4fad5c97665
+26	QQ💰	CLASSICA 古典乐,mitv://generationnexxxt.com:19806/133be9054bcd4fa68d2e34205004a51a
+27	QQ💰	爱尔达体育1台(备),mitv://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
+28	QQ💰	爱尔达体育2台,mitv://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
+29	QQ💰	TRACE Sport Stars,mitv://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
+30	QQ💰	博斯高球,mitv://generationnexxxt.com:19806/6ff0b79453d2430986930b7c84a286df
+31	QQ💰	博斯高球二台,mitv://generationnexxxt.com:19806/8afa52d0fe0047f8a6d7e51f46697f93
+3	QQ💰	博斯网球台,mitv://generationnexxxt.com:19806/7fb5b66ce38747de84be865952153959
+4	QQ💰	博斯魅力网,mitv://generationnexxxt.com:19806/c585ebfbfc7c4260a8d9556b5409faf0
+5	QQ💰	博斯无限台,mitv://generationnexxxt.com:19806/f2973cfa7c2045e6b8a184f1bf18af7c
+6	QQ💰	博斯无限二台,mitv://generationnexxxt.com:19806/143f1c23ac834d28a5296d61fed9250c
+7	QQ💰	博斯运动,mitv://generationnexxxt.com:19806/6293839c167e4b6393c745db434b2465
+8	QQ💰	ELEVEN体育2台,mitv://generationnexxxt.com:19806/057061c0da744aa7b035169dba5ebe2a
+9	QQ💰	智林体育台,mitv://generationnexxxt.com:19806/931c171e2f774f7aa1a92e97f5098c9f
+10	QQ💰	博斯运动二台,mitv://generationnexxxt.com:19806/cbd52c51fbab49ae9b3bc0da9137f681
+11	QQ💰	HBO强档巨献,mitv://generationnexxxt.com:19806/563a5981b8ad4df085b59ce98bbecb95
+12	QQ💰	HBO原创巨献,mitv://generationnexxxt.com:19806/bd0a33ff8b6f4fe9ba7791ad73c6c16e
+13	QQ💰	BBC Earth,mitv://generationnexxxt.com:19806/49261fefe28441bea7b775cc44fa16b5
+14	QQ💰	Discovery Asia,mitv://generationnexxxt.com:19806/0afefbe6244c42dbac40a3d8abef8d07
+15	QQ💰	Discovery科学频道,mitv://generationnexxxt.com:19806/39e1494bd82c449892c6f92a6c8dc213
+16	QQ💰	DMAX,mitv://generationnexxxt.com:19806/50af7fb4500840e292bcfae4dd50e97f
+17	QQ💰	EVE,mitv://generationnexxxt.com:19806/f21130546932443d98f6ec02aa4ec99a
+18	QQ💰	历史频道,mitv://generationnexxxt.com:19806/e6f506b509c94bacb4a371cdbcbe7719
+19	QQ💰	罪案侦缉频道,mitv://generationnexxxt.com:19806/ef7b4ee3be374092a4a0074a6be41e03
+20	QQ💰	BBC Lifestyle,mitv://generationnexxxt.com:19806/178e533979bb4ec3af9190ca475f23ef
+21	QQ💰	Lifetime,mitv://generationnexxxt.com:19806/112b06172cdf41cbb6990e64d30cab0c
+22	QQ💰	KLT-靖天国际台,mitv://generationnexxxt.com:19806/12d39bada24843588ad72a3175b785a2
+23	QQ💰	HGTV居家乐活频道,mitv://generationnexxxt.com:19806/84613e96237545769558cc572e6d1ab0
+24	QQ💰	Love Nature,mitv://generationnexxxt.com:19806/574be1e2e0054216abe436413ea4221a
+25	QQ💰	美食星球,mitv://generationnexxxt.com:19806/1baaeb6967434fee9bf4412904e573b0
+26	QQ💰	亚洲美食频道,mitv://generationnexxxt.com:19806/5b787bd078c84a3caa09c3665c66dc50
+27	QQ💰	亚洲旅游台,mitv://generationnexxxt.com:19806/259c24cb79ce4b5db1fb1e1b894c517e
+28	QQ💰	EYE TV旅游台,mitv://generationnexxxt.com:19806/2d426994acef44deb401aa8a4cd5a92e
+29	QQ💰	好消息2台,mitv://generationnexxxt.com:19806/2b9f20946a6147dfba8f92373fbafee5
+30	QQ💰	三立综合台,mitv://generationnexxxt.com:19806/792a7263dd7b4c7484512d07f3c21083
+31	QQ💰	靖天资讯台,mitv://generationnexxxt.com:19806/5c9d432112fd4d4e92263a34415293fa
+32	QQ💰	靖天综合台,mitv://generationnexxxt.com:19806/ed2e3f294dcc40c1b72aba372fbed64d
+33	QQ💰	靖天育乐台,mitv://generationnexxxt.com:19806/d67fd6c2e7c44e17b9e86d9073f2930e
+34	QQ💰	中视经典台,mitv://generationnexxxt.com:19806/8b9e15ff15474ccbbc2780c1484e50c9
+35	QQ💰	中视菁采台,mitv://generationnexxxt.com:19806/ae5e01a7bc294327b88f65aa5d38217c
+36	QQ💰	TVBS精采台,mitv://generationnexxxt.com:19806/2089afbec2474359add275658522922f
+37	QQ💰	壹电视综合,mitv://generationnexxxt.com:19806/617d6cf150574cb485ee07aea57262fd
+38	QQ💰	纬来精采,mitv://generationnexxxt.com:19806/1db14fe8aad841b4b28eca2b136e7206
+39	QQ💰	ETtoday综合台,mitv://generationnexxxt.com:19806/8e1b32241c9d4d079a2df7dc99adb312
+40	QQ💰	民视第一台,mitv://generationnexxxt.com:19806/b97979cec8d74feebc370f3470cc06c6
+41	QQ💰	民视台湾台,mitv://generationnexxxt.com:19806/192bd12842624eb39e2f6b86eeacdca8
+42	QQ💰	Nice TV靖天欢乐台,mitv://generationnexxxt.com:19806/439163cf3469473b8ffd582b687991be
+43	QQ💰	八大优频道,mitv://generationnexxxt.com:19806/7abaa68442ce4ed7ad7c9772fb46eda9
+44	QQ💰	三立戏剧台,mitv://generationnexxxt.com:19806/7a5b874b630d457bb5997a2fe4690550
+45	QQ💰	龙华戏剧,mitv://generationnexxxt.com:19806/5d4f0bd2b18b4a588a0ca733569b18dd
+46	QQ💰	靖天戏剧台,mitv://generationnexxxt.com:19806/1282202787324223b35e3c84d9e673c6
+47	QQ💰	靖洋戏剧台,mitv://generationnexxxt.com:19806/84a559f1b4884854be933d5d4fc0d4a6
+48	QQ💰	靖天日本台,mitv://generationnexxxt.com:19806/c88dcc9ddf6747b991fc1a0db939147d
+49	QQ💰	i-Fun动漫台,mitv://generationnexxxt.com:19806/91a0e3fa1a714dd7b7cf55343052cd4f
+50	QQ💰	韩国娱乐台,mitv://generationnexxxt.com:19806/80d680dc15ec44bea9c3a3160ecdcb14
+51	QQ💰	达文西频道,mitv://generationnexxxt.com:19806/65939a080006919098d4bd6914a733d2
+52	QQ💰	ROCK Extreme,mitv://generationnexxxt.com:19806/fc56480dab3541a6a99d66c3d2048526
+53	QQ💰	中视新闻台,mitv://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
+54	QQ💰	寰宇新闻台,mitv://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
+55	QQ💰	华视新闻,mitv://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
+56	QQ💰	NHK新闻资讯台,mitv://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
+57	QQ💰	美亚电影台HD,mitv://generationnexxxt.com:19806/a850e570b868424c94319a2652ca7c62
+58	QQ💰	龙华电影,mitv://generationnexxxt.com:19806/1df6f5f0993a46faa17f676518654709
+59	QQ💰	Smart知识台,mitv://generationnexxxt.com:19806/65939c760002de7398de3a2e3f1b051b
+60	QQ💰	靖天映画,mitv://generationnexxxt.com:19806/b723859f3ed94e5ba712148b209eefd0
+61	QQ💰	靖天电影台,mitv://generationnexxxt.com:19806/d8c581e0e1a24823a3d2110e3584ef8b
+62	QQ💰	WARNER TV,mitv://generationnexxxt.com:19806/cd2062a6c5a94d548f3516d96e23deec
+63	QQ💰	公视台语台,mitv://generationnexxxt.com:19806/6593a0f40009baf898efc82314242462
+64	QQ💰	AMC最爱电影,mitv://generationnexxxt.com:19806/24ce0147e36a438eab843a3168cea3bc
+65	QQ💰	HBO Family,mitv://generationnexxxt.com:19806/8a0208ebdfa04b5eab112f0c8b01719c
+66	QQ💰	CatchPlay电影台,mitv://generationnexxxt.com:19806/2dccaec60f0e418d82d2d0bb09f0c4a8
+67	QQ💰	CinemaWorld,mitv://generationnexxxt.com:19806/e262f40881b2461f9a270b4d9d0b54c3
+68	QQ💰	壹电视电影台,mitv://generationnexxxt.com:19806/1be1329b6d124745a87a16de445d2352
+69	QQ💰	采昌影剧台,mitv://generationnexxxt.com:19806/a0d691053f9b4876ab2b509a62296911
+70	QQ💰	佛卫慈悲台,mitv://generationnexxxt.com:19806/be70c8b5b35c4551b5c7d3c905234e69
+71	QQ💰	TechStorm,mitv://generationnexxxt.com:19806/994876c6aadc4234ba73441f18d36602
+72	QQ💰	EYE TV戏剧台,mitv://generationnexxxt.com:19806/2831986ed4b448c9b626788fbd3f2f89
+73	QQ💰	台视新闻台,mitv://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
+74	QQ💰	寰宇新闻台湾台,mitv://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
+75	QQ💰	台视财经台,mitv://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
+76	QQ💰	纬来日本,mitv://generationnexxxt.com:19806/5f9d37ba1fc04a04aaec6979908294a2
+77	QQ💰	爱尔达影剧台,mitv://generationnexxxt.com:19806/932d4522f2294c6a926b7ab8027c269f
+78	QQ💰	民视(备),mitv://generationnexxxt.com:19806/8d864649cfc54b518b3d137d67583155
+79	QQ💰	三立台湾台(备),mitv://generationnexxxt.com:19806/7554a57ea53f4c10ae4e219ac2d374c4
+80	QQ💰	影迷数位电影台,mitv://generationnexxxt.com:19806/bc069c037478448a9e41dbc3e1d5d0f6
+81	QQ💰	爱尔达体育1台,mitv://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
+82	QQ💰	爱尔达体育3台,mitv://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
+83	QQ💰	台视(备),mitv://generationnexxxt.com:19806/3c20d4387ec845149b2ded5f28805f18
+84	QQ💰	爱尔达体育4台,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
+85	QQ💰	中视(备),mitv://generationnexxxt.com:19806/c4ede9c3d1a84d0b9afe57622abcb9e7
+86	QQ💰	华视(备),mitv://generationnexxxt.com:19806/177390ae66634acca9be01242a769660
+87	QQ💰	东森新闻台(备),mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
+88	QQ💰	镜新闻,mitv://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
+89	QQ💰	MTV,mitv://generationnexxxt.com:19806/eb5ba5262e2e4779a1418c78d14ad1e5
+90	QQ💰	TVB CHINESEhttp://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153401
+91	QQ💰	TVB CLASSIChttp://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153503
+92	QQ💰	TVB1,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=153401
+93	QQ💰	星空卫视,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=683118
+94	QQ💰	TVB星河,http://dtv21.org:8080/play/live.php?mac=00:1A:79:00:21:D9&extension=ts&stream=306342
+95	QQ💰	长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist0.m3u8
+96	QQ💰	探索亞洲http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571181&extension=ts
+97	QQ💰	亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+98	QQ💰	台湾番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+99	QQ💰	TVB星河(粤),mitv://generationnexxxt.com:19806/d3eb302836af436baef656d5c201f1a3
+100	QQ💰	TVB娱乐新闻台,mitv://generationnexxxt.com:19806/38b5b6844291493b987f3de5afa2b373
+101	QQ💰	香港面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+102	QQ💰	翡翠台,mitv://generationnexxxt.com:19806/171596a185224df783c5b43b1ba9e6d8
+103	QQ💰	天映频道,mitv://generationnexxxt.com:19806/234e6bd25b9a42f391c7f0ed73a038e2
+104	QQ💰	星空卫视,http://vl15191373.imwork.net:8880/udp/239.93.0.156:2193
+105	QQ💰	HOY TV,http://51.89.21.73:27347/livehttpplay?channel_id=20152
+106	QQ💰	澳门Macau,http://61.244.22.5/ch3/_definst_/ch3.live/playlist.m3u8
+107	QQ💰	澳门卫视,https://live.mastvnet.com/lsdream/MSTV/1500/live.m3u8
+108	QQ💰	澳视澳门,http://61.244.22.5/ch1/ch1.live/playlist.m3u8
+109	QQ💰	澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
+110	QQ💰	澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+111	QQ💰	澳门资讯,http://61.244.22.5/ch5/info_ch5.live/master.m3u8
+112	QQ💰	大爱,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+113	QQ💰	大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
