@@ -25,7 +25,6 @@ TVBS新闻,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe
 中视新闻,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=27
 中视新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepnvzydstudzbszcvbfzzzszfzszwetymzldhduzocnzsxw.flv
 中天新闻,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=21
-中天新闻,http://pull-hls-hs-spe-f5.douyincdn.com/live/twlivepzztvvzzzyzuuzzfvbscvzdztwzfszzszzzcvuyzemzeztxw.flv
 中天亚洲,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=42
 HOY TV,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=17
 HOY资讯,http://hls.666888999.gay/iptv.php?key=e2e840c0ea4abd8af71f1a67a553bbe5&id=18
