@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>URL 拼接跳转</title>
+    <script>
+        function redirect() {
+            // 获取用户输入的部分网址
+            var userInput = document.getElementById("urlInput").value;
+            // 定义基础网址（预定的网址）
+            var baseUrl = "https://jx.xmflv.cc/?url=";
+            // 组合基础网址和用户输入的部分
+            var fullUrl = baseUrl + userInput;
+            // 跳转到新网址
+            window.location.href = fullUrl;
+        }
+    </script>
+</head>
+<body>
+    <h1>网址跳转</h1>
+    <p>请输入后缀网址：</p>
+    <!-- 输入框供用户输入网址后缀 -->
+    <input type="text" id="urlInput" placeholder="请输入网址后缀">
+    <!-- 点击按钮后执行跳转 -->
+    <button onclick="redirect()">跳转</button>
+</body>
+</html>
